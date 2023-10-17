@@ -1,0 +1,601 @@
+Countries code,Countries label,Migration Country (inflow) (5 categories) code,Migration Country (inflow) (5 categories) label,Ethnic group (6 categories) code,Ethnic group (6 categories) label,National Statistics Socio-economic Classification (NS-SeC) (10 categories) code,National Statistics Socio-economic Classification (NS-SeC) (10 categories) label,Count
+E92000001,England,-8,Does not apply,-8,Does not apply,-8,Does not apply,0
+E92000001,England,-8,Does not apply,-8,Does not apply,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",0
+E92000001,England,-8,Does not apply,-8,Does not apply,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",0
+E92000001,England,-8,Does not apply,-8,Does not apply,3,L7: Intermediate occupations,0
+E92000001,England,-8,Does not apply,-8,Does not apply,4,L8 and L9: Small employers and own account workers,0
+E92000001,England,-8,Does not apply,-8,Does not apply,5,L10 and L11: Lower supervisory and technical occupations,0
+E92000001,England,-8,Does not apply,-8,Does not apply,6,L12: Semi-routine occupations,0
+E92000001,England,-8,Does not apply,-8,Does not apply,7,L13: Routine occupations,0
+E92000001,England,-8,Does not apply,-8,Does not apply,8,L14.1 and L14.2: Never worked and long-term unemployed,0
+E92000001,England,-8,Does not apply,-8,Does not apply,9,L15: Full-time students,0
+E92000001,England,-8,Does not apply,1,"Asian, Asian British or Asian Welsh",-8,Does not apply,0
+E92000001,England,-8,Does not apply,1,"Asian, Asian British or Asian Welsh",1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",0
+E92000001,England,-8,Does not apply,1,"Asian, Asian British or Asian Welsh",2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",0
+E92000001,England,-8,Does not apply,1,"Asian, Asian British or Asian Welsh",3,L7: Intermediate occupations,0
+E92000001,England,-8,Does not apply,1,"Asian, Asian British or Asian Welsh",4,L8 and L9: Small employers and own account workers,0
+E92000001,England,-8,Does not apply,1,"Asian, Asian British or Asian Welsh",5,L10 and L11: Lower supervisory and technical occupations,0
+E92000001,England,-8,Does not apply,1,"Asian, Asian British or Asian Welsh",6,L12: Semi-routine occupations,0
+E92000001,England,-8,Does not apply,1,"Asian, Asian British or Asian Welsh",7,L13: Routine occupations,0
+E92000001,England,-8,Does not apply,1,"Asian, Asian British or Asian Welsh",8,L14.1 and L14.2: Never worked and long-term unemployed,0
+E92000001,England,-8,Does not apply,1,"Asian, Asian British or Asian Welsh",9,L15: Full-time students,0
+E92000001,England,-8,Does not apply,2,"Black, Black British, Black Welsh, Caribbean or African",-8,Does not apply,0
+E92000001,England,-8,Does not apply,2,"Black, Black British, Black Welsh, Caribbean or African",1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",0
+E92000001,England,-8,Does not apply,2,"Black, Black British, Black Welsh, Caribbean or African",2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",0
+E92000001,England,-8,Does not apply,2,"Black, Black British, Black Welsh, Caribbean or African",3,L7: Intermediate occupations,0
+E92000001,England,-8,Does not apply,2,"Black, Black British, Black Welsh, Caribbean or African",4,L8 and L9: Small employers and own account workers,0
+E92000001,England,-8,Does not apply,2,"Black, Black British, Black Welsh, Caribbean or African",5,L10 and L11: Lower supervisory and technical occupations,0
+E92000001,England,-8,Does not apply,2,"Black, Black British, Black Welsh, Caribbean or African",6,L12: Semi-routine occupations,0
+E92000001,England,-8,Does not apply,2,"Black, Black British, Black Welsh, Caribbean or African",7,L13: Routine occupations,0
+E92000001,England,-8,Does not apply,2,"Black, Black British, Black Welsh, Caribbean or African",8,L14.1 and L14.2: Never worked and long-term unemployed,0
+E92000001,England,-8,Does not apply,2,"Black, Black British, Black Welsh, Caribbean or African",9,L15: Full-time students,0
+E92000001,England,-8,Does not apply,3,Mixed or Multiple ethnic groups,-8,Does not apply,0
+E92000001,England,-8,Does not apply,3,Mixed or Multiple ethnic groups,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",0
+E92000001,England,-8,Does not apply,3,Mixed or Multiple ethnic groups,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",0
+E92000001,England,-8,Does not apply,3,Mixed or Multiple ethnic groups,3,L7: Intermediate occupations,0
+E92000001,England,-8,Does not apply,3,Mixed or Multiple ethnic groups,4,L8 and L9: Small employers and own account workers,0
+E92000001,England,-8,Does not apply,3,Mixed or Multiple ethnic groups,5,L10 and L11: Lower supervisory and technical occupations,0
+E92000001,England,-8,Does not apply,3,Mixed or Multiple ethnic groups,6,L12: Semi-routine occupations,0
+E92000001,England,-8,Does not apply,3,Mixed or Multiple ethnic groups,7,L13: Routine occupations,0
+E92000001,England,-8,Does not apply,3,Mixed or Multiple ethnic groups,8,L14.1 and L14.2: Never worked and long-term unemployed,0
+E92000001,England,-8,Does not apply,3,Mixed or Multiple ethnic groups,9,L15: Full-time students,0
+E92000001,England,-8,Does not apply,4,White,-8,Does not apply,0
+E92000001,England,-8,Does not apply,4,White,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",0
+E92000001,England,-8,Does not apply,4,White,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",0
+E92000001,England,-8,Does not apply,4,White,3,L7: Intermediate occupations,0
+E92000001,England,-8,Does not apply,4,White,4,L8 and L9: Small employers and own account workers,0
+E92000001,England,-8,Does not apply,4,White,5,L10 and L11: Lower supervisory and technical occupations,0
+E92000001,England,-8,Does not apply,4,White,6,L12: Semi-routine occupations,0
+E92000001,England,-8,Does not apply,4,White,7,L13: Routine occupations,0
+E92000001,England,-8,Does not apply,4,White,8,L14.1 and L14.2: Never worked and long-term unemployed,0
+E92000001,England,-8,Does not apply,4,White,9,L15: Full-time students,0
+E92000001,England,-8,Does not apply,5,Other ethnic group,-8,Does not apply,0
+E92000001,England,-8,Does not apply,5,Other ethnic group,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",0
+E92000001,England,-8,Does not apply,5,Other ethnic group,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",0
+E92000001,England,-8,Does not apply,5,Other ethnic group,3,L7: Intermediate occupations,0
+E92000001,England,-8,Does not apply,5,Other ethnic group,4,L8 and L9: Small employers and own account workers,0
+E92000001,England,-8,Does not apply,5,Other ethnic group,5,L10 and L11: Lower supervisory and technical occupations,0
+E92000001,England,-8,Does not apply,5,Other ethnic group,6,L12: Semi-routine occupations,0
+E92000001,England,-8,Does not apply,5,Other ethnic group,7,L13: Routine occupations,0
+E92000001,England,-8,Does not apply,5,Other ethnic group,8,L14.1 and L14.2: Never worked and long-term unemployed,0
+E92000001,England,-8,Does not apply,5,Other ethnic group,9,L15: Full-time students,0
+E92000001,England,1,Lived at the same address one year ago,-8,Does not apply,-8,Does not apply,0
+E92000001,England,1,Lived at the same address one year ago,-8,Does not apply,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",0
+E92000001,England,1,Lived at the same address one year ago,-8,Does not apply,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",0
+E92000001,England,1,Lived at the same address one year ago,-8,Does not apply,3,L7: Intermediate occupations,0
+E92000001,England,1,Lived at the same address one year ago,-8,Does not apply,4,L8 and L9: Small employers and own account workers,0
+E92000001,England,1,Lived at the same address one year ago,-8,Does not apply,5,L10 and L11: Lower supervisory and technical occupations,0
+E92000001,England,1,Lived at the same address one year ago,-8,Does not apply,6,L12: Semi-routine occupations,0
+E92000001,England,1,Lived at the same address one year ago,-8,Does not apply,7,L13: Routine occupations,0
+E92000001,England,1,Lived at the same address one year ago,-8,Does not apply,8,L14.1 and L14.2: Never worked and long-term unemployed,0
+E92000001,England,1,Lived at the same address one year ago,-8,Does not apply,9,L15: Full-time students,0
+E92000001,England,1,Lived at the same address one year ago,1,"Asian, Asian British or Asian Welsh",-8,Does not apply,1098510
+E92000001,England,1,Lived at the same address one year ago,1,"Asian, Asian British or Asian Welsh",1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",479171
+E92000001,England,1,Lived at the same address one year ago,1,"Asian, Asian British or Asian Welsh",2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",544692
+E92000001,England,1,Lived at the same address one year ago,1,"Asian, Asian British or Asian Welsh",3,L7: Intermediate occupations,326621
+E92000001,England,1,Lived at the same address one year ago,1,"Asian, Asian British or Asian Welsh",4,L8 and L9: Small employers and own account workers,365784
+E92000001,England,1,Lived at the same address one year ago,1,"Asian, Asian British or Asian Welsh",5,L10 and L11: Lower supervisory and technical occupations,133479
+E92000001,England,1,Lived at the same address one year ago,1,"Asian, Asian British or Asian Welsh",6,L12: Semi-routine occupations,352946
+E92000001,England,1,Lived at the same address one year ago,1,"Asian, Asian British or Asian Welsh",7,L13: Routine occupations,358486
+E92000001,England,1,Lived at the same address one year ago,1,"Asian, Asian British or Asian Welsh",8,L14.1 and L14.2: Never worked and long-term unemployed,577082
+E92000001,England,1,Lived at the same address one year ago,1,"Asian, Asian British or Asian Welsh",9,L15: Full-time students,412527
+E92000001,England,1,Lived at the same address one year ago,2,"Black, Black British, Black Welsh, Caribbean or African",-8,Does not apply,499291
+E92000001,England,1,Lived at the same address one year ago,2,"Black, Black British, Black Welsh, Caribbean or African",1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",136371
+E92000001,England,1,Lived at the same address one year ago,2,"Black, Black British, Black Welsh, Caribbean or African",2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",285708
+E92000001,England,1,Lived at the same address one year ago,2,"Black, Black British, Black Welsh, Caribbean or African",3,L7: Intermediate occupations,153677
+E92000001,England,1,Lived at the same address one year ago,2,"Black, Black British, Black Welsh, Caribbean or African",4,L8 and L9: Small employers and own account workers,114923
+E92000001,England,1,Lived at the same address one year ago,2,"Black, Black British, Black Welsh, Caribbean or African",5,L10 and L11: Lower supervisory and technical occupations,59971
+E92000001,England,1,Lived at the same address one year ago,2,"Black, Black British, Black Welsh, Caribbean or African",6,L12: Semi-routine occupations,203694
+E92000001,England,1,Lived at the same address one year ago,2,"Black, Black British, Black Welsh, Caribbean or African",7,L13: Routine occupations,180858
+E92000001,England,1,Lived at the same address one year ago,2,"Black, Black British, Black Welsh, Caribbean or African",8,L14.1 and L14.2: Never worked and long-term unemployed,184349
+E92000001,England,1,Lived at the same address one year ago,2,"Black, Black British, Black Welsh, Caribbean or African",9,L15: Full-time students,225172
+E92000001,England,1,Lived at the same address one year ago,3,Mixed or Multiple ethnic groups,-8,Does not apply,611283
+E92000001,England,1,Lived at the same address one year ago,3,Mixed or Multiple ethnic groups,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",96006
+E92000001,England,1,Lived at the same address one year ago,3,Mixed or Multiple ethnic groups,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",144607
+E92000001,England,1,Lived at the same address one year ago,3,Mixed or Multiple ethnic groups,3,L7: Intermediate occupations,77398
+E92000001,England,1,Lived at the same address one year ago,3,Mixed or Multiple ethnic groups,4,L8 and L9: Small employers and own account workers,62603
+E92000001,England,1,Lived at the same address one year ago,3,Mixed or Multiple ethnic groups,5,L10 and L11: Lower supervisory and technical occupations,31082
+E92000001,England,1,Lived at the same address one year ago,3,Mixed or Multiple ethnic groups,6,L12: Semi-routine occupations,75597
+E92000001,England,1,Lived at the same address one year ago,3,Mixed or Multiple ethnic groups,7,L13: Routine occupations,74463
+E92000001,England,1,Lived at the same address one year ago,3,Mixed or Multiple ethnic groups,8,L14.1 and L14.2: Never worked and long-term unemployed,72009
+E92000001,England,1,Lived at the same address one year ago,3,Mixed or Multiple ethnic groups,9,L15: Full-time students,124151
+E92000001,England,1,Lived at the same address one year ago,4,White,-8,Does not apply,6522411
+E92000001,England,1,Lived at the same address one year ago,4,White,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",4512145
+E92000001,England,1,Lived at the same address one year ago,4,White,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",7056995
+E92000001,England,1,Lived at the same address one year ago,4,White,3,L7: Intermediate occupations,4153777
+E92000001,England,1,Lived at the same address one year ago,4,White,4,L8 and L9: Small employers and own account workers,3809197
+E92000001,England,1,Lived at the same address one year ago,4,White,5,L10 and L11: Lower supervisory and technical occupations,1973218
+E92000001,England,1,Lived at the same address one year ago,4,White,6,L12: Semi-routine occupations,4033364
+E92000001,England,1,Lived at the same address one year ago,4,White,7,L13: Routine occupations,4304934
+E92000001,England,1,Lived at the same address one year ago,4,White,8,L14.1 and L14.2: Never worked and long-term unemployed,2611094
+E92000001,England,1,Lived at the same address one year ago,4,White,9,L15: Full-time students,1647258
+E92000001,England,1,Lived at the same address one year ago,5,Other ethnic group,-8,Does not apply,229437
+E92000001,England,1,Lived at the same address one year ago,5,Other ethnic group,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",89391
+E92000001,England,1,Lived at the same address one year ago,5,Other ethnic group,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",107482
+E92000001,England,1,Lived at the same address one year ago,5,Other ethnic group,3,L7: Intermediate occupations,55831
+E92000001,England,1,Lived at the same address one year ago,5,Other ethnic group,4,L8 and L9: Small employers and own account workers,93388
+E92000001,England,1,Lived at the same address one year ago,5,Other ethnic group,5,L10 and L11: Lower supervisory and technical occupations,34291
+E92000001,England,1,Lived at the same address one year ago,5,Other ethnic group,6,L12: Semi-routine occupations,69826
+E92000001,England,1,Lived at the same address one year ago,5,Other ethnic group,7,L13: Routine occupations,98980
+E92000001,England,1,Lived at the same address one year ago,5,Other ethnic group,8,L14.1 and L14.2: Never worked and long-term unemployed,149945
+E92000001,England,1,Lived at the same address one year ago,5,Other ethnic group,9,L15: Full-time students,94330
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",-8,Does not apply,-8,Does not apply,0
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",-8,Does not apply,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",0
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",-8,Does not apply,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",0
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",-8,Does not apply,3,L7: Intermediate occupations,0
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",-8,Does not apply,4,L8 and L9: Small employers and own account workers,0
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",-8,Does not apply,5,L10 and L11: Lower supervisory and technical occupations,0
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",-8,Does not apply,6,L12: Semi-routine occupations,0
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",-8,Does not apply,7,L13: Routine occupations,0
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",-8,Does not apply,8,L14.1 and L14.2: Never worked and long-term unemployed,0
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",-8,Does not apply,9,L15: Full-time students,0
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",1,"Asian, Asian British or Asian Welsh",-8,Does not apply,98217
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",1,"Asian, Asian British or Asian Welsh",1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",77873
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",1,"Asian, Asian British or Asian Welsh",2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",73324
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",1,"Asian, Asian British or Asian Welsh",3,L7: Intermediate occupations,31542
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",1,"Asian, Asian British or Asian Welsh",4,L8 and L9: Small employers and own account workers,27990
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",1,"Asian, Asian British or Asian Welsh",5,L10 and L11: Lower supervisory and technical occupations,13082
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",1,"Asian, Asian British or Asian Welsh",6,L12: Semi-routine occupations,33113
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",1,"Asian, Asian British or Asian Welsh",7,L13: Routine occupations,32389
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",1,"Asian, Asian British or Asian Welsh",8,L14.1 and L14.2: Never worked and long-term unemployed,43168
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",1,"Asian, Asian British or Asian Welsh",9,L15: Full-time students,112838
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",2,"Black, Black British, Black Welsh, Caribbean or African",-8,Does not apply,50915
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",2,"Black, Black British, Black Welsh, Caribbean or African",1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",21026
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",2,"Black, Black British, Black Welsh, Caribbean or African",2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",33204
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",2,"Black, Black British, Black Welsh, Caribbean or African",3,L7: Intermediate occupations,16427
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",2,"Black, Black British, Black Welsh, Caribbean or African",4,L8 and L9: Small employers and own account workers,11068
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",2,"Black, Black British, Black Welsh, Caribbean or African",5,L10 and L11: Lower supervisory and technical occupations,6184
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",2,"Black, Black British, Black Welsh, Caribbean or African",6,L12: Semi-routine occupations,22022
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",2,"Black, Black British, Black Welsh, Caribbean or African",7,L13: Routine occupations,20282
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",2,"Black, Black British, Black Welsh, Caribbean or African",8,L14.1 and L14.2: Never worked and long-term unemployed,18993
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",2,"Black, Black British, Black Welsh, Caribbean or African",9,L15: Full-time students,60114
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",3,Mixed or Multiple ethnic groups,-8,Does not apply,65940
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",3,Mixed or Multiple ethnic groups,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",22694
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",3,Mixed or Multiple ethnic groups,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",29301
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",3,Mixed or Multiple ethnic groups,3,L7: Intermediate occupations,13208
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",3,Mixed or Multiple ethnic groups,4,L8 and L9: Small employers and own account workers,9716
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",3,Mixed or Multiple ethnic groups,5,L10 and L11: Lower supervisory and technical occupations,5362
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",3,Mixed or Multiple ethnic groups,6,L12: Semi-routine occupations,11704
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",3,Mixed or Multiple ethnic groups,7,L13: Routine occupations,13361
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",3,Mixed or Multiple ethnic groups,8,L14.1 and L14.2: Never worked and long-term unemployed,9239
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",3,Mixed or Multiple ethnic groups,9,L15: Full-time students,46764
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",4,White,-8,Does not apply,620855
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",4,White,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",562801
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",4,White,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",797625
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",4,White,3,L7: Intermediate occupations,387422
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",4,White,4,L8 and L9: Small employers and own account workers,331763
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",4,White,5,L10 and L11: Lower supervisory and technical occupations,185668
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",4,White,6,L12: Semi-routine occupations,343926
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",4,White,7,L13: Routine occupations,377233
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",4,White,8,L14.1 and L14.2: Never worked and long-term unemployed,175859
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",4,White,9,L15: Full-time students,633547
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",5,Other ethnic group,-8,Does not apply,25990
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",5,Other ethnic group,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",16481
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",5,Other ethnic group,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",15981
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",5,Other ethnic group,3,L7: Intermediate occupations,7304
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",5,Other ethnic group,4,L8 and L9: Small employers and own account workers,11739
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",5,Other ethnic group,5,L10 and L11: Lower supervisory and technical occupations,4871
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",5,Other ethnic group,6,L12: Semi-routine occupations,8887
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",5,Other ethnic group,7,L13: Routine occupations,14894
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",5,Other ethnic group,8,L14.1 and L14.2: Never worked and long-term unemployed,17240
+E92000001,England,2,"Inflow: lived elsewhere one year ago, but within the same area",5,Other ethnic group,9,L15: Full-time students,25366
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",-8,Does not apply,-8,Does not apply,0
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",-8,Does not apply,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",0
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",-8,Does not apply,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",0
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",-8,Does not apply,3,L7: Intermediate occupations,0
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",-8,Does not apply,4,L8 and L9: Small employers and own account workers,0
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",-8,Does not apply,5,L10 and L11: Lower supervisory and technical occupations,0
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",-8,Does not apply,6,L12: Semi-routine occupations,0
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",-8,Does not apply,7,L13: Routine occupations,0
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",-8,Does not apply,8,L14.1 and L14.2: Never worked and long-term unemployed,0
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",-8,Does not apply,9,L15: Full-time students,0
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1,"Asian, Asian British or Asian Welsh",-8,Does not apply,673
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1,"Asian, Asian British or Asian Welsh",1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",1221
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1,"Asian, Asian British or Asian Welsh",2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",650
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1,"Asian, Asian British or Asian Welsh",3,L7: Intermediate occupations,257
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1,"Asian, Asian British or Asian Welsh",4,L8 and L9: Small employers and own account workers,176
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1,"Asian, Asian British or Asian Welsh",5,L10 and L11: Lower supervisory and technical occupations,135
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1,"Asian, Asian British or Asian Welsh",6,L12: Semi-routine occupations,267
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1,"Asian, Asian British or Asian Welsh",7,L13: Routine occupations,187
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1,"Asian, Asian British or Asian Welsh",8,L14.1 and L14.2: Never worked and long-term unemployed,513
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1,"Asian, Asian British or Asian Welsh",9,L15: Full-time students,1855
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2,"Black, Black British, Black Welsh, Caribbean or African",-8,Does not apply,380
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2,"Black, Black British, Black Welsh, Caribbean or African",1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",319
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2,"Black, Black British, Black Welsh, Caribbean or African",2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",292
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2,"Black, Black British, Black Welsh, Caribbean or African",3,L7: Intermediate occupations,153
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2,"Black, Black British, Black Welsh, Caribbean or African",4,L8 and L9: Small employers and own account workers,94
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2,"Black, Black British, Black Welsh, Caribbean or African",5,L10 and L11: Lower supervisory and technical occupations,33
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2,"Black, Black British, Black Welsh, Caribbean or African",6,L12: Semi-routine occupations,173
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2,"Black, Black British, Black Welsh, Caribbean or African",7,L13: Routine occupations,100
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2,"Black, Black British, Black Welsh, Caribbean or African",8,L14.1 and L14.2: Never worked and long-term unemployed,184
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2,"Black, Black British, Black Welsh, Caribbean or African",9,L15: Full-time students,574
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3,Mixed or Multiple ethnic groups,-8,Does not apply,291
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3,Mixed or Multiple ethnic groups,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",269
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3,Mixed or Multiple ethnic groups,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",312
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3,Mixed or Multiple ethnic groups,3,L7: Intermediate occupations,155
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3,Mixed or Multiple ethnic groups,4,L8 and L9: Small employers and own account workers,63
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3,Mixed or Multiple ethnic groups,5,L10 and L11: Lower supervisory and technical occupations,55
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3,Mixed or Multiple ethnic groups,6,L12: Semi-routine occupations,121
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3,Mixed or Multiple ethnic groups,7,L13: Routine occupations,120
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3,Mixed or Multiple ethnic groups,8,L14.1 and L14.2: Never worked and long-term unemployed,115
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3,Mixed or Multiple ethnic groups,9,L15: Full-time students,842
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4,White,-8,Does not apply,3690
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4,White,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",8866
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4,White,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",10736
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4,White,3,L7: Intermediate occupations,5412
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4,White,4,L8 and L9: Small employers and own account workers,3160
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4,White,5,L10 and L11: Lower supervisory and technical occupations,2004
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4,White,6,L12: Semi-routine occupations,4256
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4,White,7,L13: Routine occupations,4074
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4,White,8,L14.1 and L14.2: Never worked and long-term unemployed,2531
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4,White,9,L15: Full-time students,18716
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5,Other ethnic group,-8,Does not apply,352
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5,Other ethnic group,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",258
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5,Other ethnic group,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",139
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5,Other ethnic group,3,L7: Intermediate occupations,90
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5,Other ethnic group,4,L8 and L9: Small employers and own account workers,91
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5,Other ethnic group,5,L10 and L11: Lower supervisory and technical occupations,39
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5,Other ethnic group,6,L12: Semi-routine occupations,90
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5,Other ethnic group,7,L13: Routine occupations,103
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5,Other ethnic group,8,L14.1 and L14.2: Never worked and long-term unemployed,367
+E92000001,England,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5,Other ethnic group,9,L15: Full-time students,431
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,-8,Does not apply,-8,Does not apply,0
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,-8,Does not apply,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",0
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,-8,Does not apply,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",0
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,-8,Does not apply,3,L7: Intermediate occupations,0
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,-8,Does not apply,4,L8 and L9: Small employers and own account workers,0
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,-8,Does not apply,5,L10 and L11: Lower supervisory and technical occupations,0
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,-8,Does not apply,6,L12: Semi-routine occupations,0
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,-8,Does not apply,7,L13: Routine occupations,0
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,-8,Does not apply,8,L14.1 and L14.2: Never worked and long-term unemployed,0
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,-8,Does not apply,9,L15: Full-time students,0
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,1,"Asian, Asian British or Asian Welsh",-8,Does not apply,24183
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,1,"Asian, Asian British or Asian Welsh",1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",16314
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,1,"Asian, Asian British or Asian Welsh",2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",18234
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,1,"Asian, Asian British or Asian Welsh",3,L7: Intermediate occupations,4999
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,1,"Asian, Asian British or Asian Welsh",4,L8 and L9: Small employers and own account workers,4043
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,1,"Asian, Asian British or Asian Welsh",5,L10 and L11: Lower supervisory and technical occupations,1811
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,1,"Asian, Asian British or Asian Welsh",6,L12: Semi-routine occupations,4675
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,1,"Asian, Asian British or Asian Welsh",7,L13: Routine occupations,6621
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,1,"Asian, Asian British or Asian Welsh",8,L14.1 and L14.2: Never worked and long-term unemployed,22361
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,1,"Asian, Asian British or Asian Welsh",9,L15: Full-time students,53959
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,2,"Black, Black British, Black Welsh, Caribbean or African",-8,Does not apply,10245
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,2,"Black, Black British, Black Welsh, Caribbean or African",1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",3705
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,2,"Black, Black British, Black Welsh, Caribbean or African",2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",5366
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,2,"Black, Black British, Black Welsh, Caribbean or African",3,L7: Intermediate occupations,1643
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,2,"Black, Black British, Black Welsh, Caribbean or African",4,L8 and L9: Small employers and own account workers,1382
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,2,"Black, Black British, Black Welsh, Caribbean or African",5,L10 and L11: Lower supervisory and technical occupations,607
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,2,"Black, Black British, Black Welsh, Caribbean or African",6,L12: Semi-routine occupations,2261
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,2,"Black, Black British, Black Welsh, Caribbean or African",7,L13: Routine occupations,3036
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,2,"Black, Black British, Black Welsh, Caribbean or African",8,L14.1 and L14.2: Never worked and long-term unemployed,5658
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,2,"Black, Black British, Black Welsh, Caribbean or African",9,L15: Full-time students,12659
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,3,Mixed or Multiple ethnic groups,-8,Does not apply,5666
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,3,Mixed or Multiple ethnic groups,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",2413
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,3,Mixed or Multiple ethnic groups,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",2494
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,3,Mixed or Multiple ethnic groups,3,L7: Intermediate occupations,1063
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,3,Mixed or Multiple ethnic groups,4,L8 and L9: Small employers and own account workers,1255
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,3,Mixed or Multiple ethnic groups,5,L10 and L11: Lower supervisory and technical occupations,376
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,3,Mixed or Multiple ethnic groups,6,L12: Semi-routine occupations,813
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,3,Mixed or Multiple ethnic groups,7,L13: Routine occupations,1659
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,3,Mixed or Multiple ethnic groups,8,L14.1 and L14.2: Never worked and long-term unemployed,1683
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,3,Mixed or Multiple ethnic groups,9,L15: Full-time students,5137
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,4,White,-8,Does not apply,27667
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,4,White,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",41094
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,4,White,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",41993
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,4,White,3,L7: Intermediate occupations,16904
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,4,White,4,L8 and L9: Small employers and own account workers,22807
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,4,White,5,L10 and L11: Lower supervisory and technical occupations,7763
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,4,White,6,L12: Semi-routine occupations,14575
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,4,White,7,L13: Routine occupations,27407
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,4,White,8,L14.1 and L14.2: Never worked and long-term unemployed,15401
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,4,White,9,L15: Full-time students,45900
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,5,Other ethnic group,-8,Does not apply,8107
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,5,Other ethnic group,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",4377
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,5,Other ethnic group,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",3235
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,5,Other ethnic group,3,L7: Intermediate occupations,1446
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,5,Other ethnic group,4,L8 and L9: Small employers and own account workers,2161
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,5,Other ethnic group,5,L10 and L11: Lower supervisory and technical occupations,703
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,5,Other ethnic group,6,L12: Semi-routine occupations,1269
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,5,Other ethnic group,7,L13: Routine occupations,3086
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,5,Other ethnic group,8,L14.1 and L14.2: Never worked and long-term unemployed,7691
+E92000001,England,4,Inflow: lived elsewhere one year ago outside the UK,5,Other ethnic group,9,L15: Full-time students,8849
+W92000004,Wales,-8,Does not apply,-8,Does not apply,-8,Does not apply,0
+W92000004,Wales,-8,Does not apply,-8,Does not apply,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",0
+W92000004,Wales,-8,Does not apply,-8,Does not apply,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",0
+W92000004,Wales,-8,Does not apply,-8,Does not apply,3,L7: Intermediate occupations,0
+W92000004,Wales,-8,Does not apply,-8,Does not apply,4,L8 and L9: Small employers and own account workers,0
+W92000004,Wales,-8,Does not apply,-8,Does not apply,5,L10 and L11: Lower supervisory and technical occupations,0
+W92000004,Wales,-8,Does not apply,-8,Does not apply,6,L12: Semi-routine occupations,0
+W92000004,Wales,-8,Does not apply,-8,Does not apply,7,L13: Routine occupations,0
+W92000004,Wales,-8,Does not apply,-8,Does not apply,8,L14.1 and L14.2: Never worked and long-term unemployed,0
+W92000004,Wales,-8,Does not apply,-8,Does not apply,9,L15: Full-time students,0
+W92000004,Wales,-8,Does not apply,1,"Asian, Asian British or Asian Welsh",-8,Does not apply,0
+W92000004,Wales,-8,Does not apply,1,"Asian, Asian British or Asian Welsh",1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",0
+W92000004,Wales,-8,Does not apply,1,"Asian, Asian British or Asian Welsh",2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",0
+W92000004,Wales,-8,Does not apply,1,"Asian, Asian British or Asian Welsh",3,L7: Intermediate occupations,0
+W92000004,Wales,-8,Does not apply,1,"Asian, Asian British or Asian Welsh",4,L8 and L9: Small employers and own account workers,0
+W92000004,Wales,-8,Does not apply,1,"Asian, Asian British or Asian Welsh",5,L10 and L11: Lower supervisory and technical occupations,0
+W92000004,Wales,-8,Does not apply,1,"Asian, Asian British or Asian Welsh",6,L12: Semi-routine occupations,0
+W92000004,Wales,-8,Does not apply,1,"Asian, Asian British or Asian Welsh",7,L13: Routine occupations,0
+W92000004,Wales,-8,Does not apply,1,"Asian, Asian British or Asian Welsh",8,L14.1 and L14.2: Never worked and long-term unemployed,0
+W92000004,Wales,-8,Does not apply,1,"Asian, Asian British or Asian Welsh",9,L15: Full-time students,0
+W92000004,Wales,-8,Does not apply,2,"Black, Black British, Black Welsh, Caribbean or African",-8,Does not apply,0
+W92000004,Wales,-8,Does not apply,2,"Black, Black British, Black Welsh, Caribbean or African",1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",0
+W92000004,Wales,-8,Does not apply,2,"Black, Black British, Black Welsh, Caribbean or African",2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",0
+W92000004,Wales,-8,Does not apply,2,"Black, Black British, Black Welsh, Caribbean or African",3,L7: Intermediate occupations,0
+W92000004,Wales,-8,Does not apply,2,"Black, Black British, Black Welsh, Caribbean or African",4,L8 and L9: Small employers and own account workers,0
+W92000004,Wales,-8,Does not apply,2,"Black, Black British, Black Welsh, Caribbean or African",5,L10 and L11: Lower supervisory and technical occupations,0
+W92000004,Wales,-8,Does not apply,2,"Black, Black British, Black Welsh, Caribbean or African",6,L12: Semi-routine occupations,0
+W92000004,Wales,-8,Does not apply,2,"Black, Black British, Black Welsh, Caribbean or African",7,L13: Routine occupations,0
+W92000004,Wales,-8,Does not apply,2,"Black, Black British, Black Welsh, Caribbean or African",8,L14.1 and L14.2: Never worked and long-term unemployed,0
+W92000004,Wales,-8,Does not apply,2,"Black, Black British, Black Welsh, Caribbean or African",9,L15: Full-time students,0
+W92000004,Wales,-8,Does not apply,3,Mixed or Multiple ethnic groups,-8,Does not apply,0
+W92000004,Wales,-8,Does not apply,3,Mixed or Multiple ethnic groups,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",0
+W92000004,Wales,-8,Does not apply,3,Mixed or Multiple ethnic groups,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",0
+W92000004,Wales,-8,Does not apply,3,Mixed or Multiple ethnic groups,3,L7: Intermediate occupations,0
+W92000004,Wales,-8,Does not apply,3,Mixed or Multiple ethnic groups,4,L8 and L9: Small employers and own account workers,0
+W92000004,Wales,-8,Does not apply,3,Mixed or Multiple ethnic groups,5,L10 and L11: Lower supervisory and technical occupations,0
+W92000004,Wales,-8,Does not apply,3,Mixed or Multiple ethnic groups,6,L12: Semi-routine occupations,0
+W92000004,Wales,-8,Does not apply,3,Mixed or Multiple ethnic groups,7,L13: Routine occupations,0
+W92000004,Wales,-8,Does not apply,3,Mixed or Multiple ethnic groups,8,L14.1 and L14.2: Never worked and long-term unemployed,0
+W92000004,Wales,-8,Does not apply,3,Mixed or Multiple ethnic groups,9,L15: Full-time students,0
+W92000004,Wales,-8,Does not apply,4,White,-8,Does not apply,0
+W92000004,Wales,-8,Does not apply,4,White,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",0
+W92000004,Wales,-8,Does not apply,4,White,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",0
+W92000004,Wales,-8,Does not apply,4,White,3,L7: Intermediate occupations,0
+W92000004,Wales,-8,Does not apply,4,White,4,L8 and L9: Small employers and own account workers,0
+W92000004,Wales,-8,Does not apply,4,White,5,L10 and L11: Lower supervisory and technical occupations,0
+W92000004,Wales,-8,Does not apply,4,White,6,L12: Semi-routine occupations,0
+W92000004,Wales,-8,Does not apply,4,White,7,L13: Routine occupations,0
+W92000004,Wales,-8,Does not apply,4,White,8,L14.1 and L14.2: Never worked and long-term unemployed,0
+W92000004,Wales,-8,Does not apply,4,White,9,L15: Full-time students,0
+W92000004,Wales,-8,Does not apply,5,Other ethnic group,-8,Does not apply,0
+W92000004,Wales,-8,Does not apply,5,Other ethnic group,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",0
+W92000004,Wales,-8,Does not apply,5,Other ethnic group,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",0
+W92000004,Wales,-8,Does not apply,5,Other ethnic group,3,L7: Intermediate occupations,0
+W92000004,Wales,-8,Does not apply,5,Other ethnic group,4,L8 and L9: Small employers and own account workers,0
+W92000004,Wales,-8,Does not apply,5,Other ethnic group,5,L10 and L11: Lower supervisory and technical occupations,0
+W92000004,Wales,-8,Does not apply,5,Other ethnic group,6,L12: Semi-routine occupations,0
+W92000004,Wales,-8,Does not apply,5,Other ethnic group,7,L13: Routine occupations,0
+W92000004,Wales,-8,Does not apply,5,Other ethnic group,8,L14.1 and L14.2: Never worked and long-term unemployed,0
+W92000004,Wales,-8,Does not apply,5,Other ethnic group,9,L15: Full-time students,0
+W92000004,Wales,1,Lived at the same address one year ago,-8,Does not apply,-8,Does not apply,0
+W92000004,Wales,1,Lived at the same address one year ago,-8,Does not apply,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",0
+W92000004,Wales,1,Lived at the same address one year ago,-8,Does not apply,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",0
+W92000004,Wales,1,Lived at the same address one year ago,-8,Does not apply,3,L7: Intermediate occupations,0
+W92000004,Wales,1,Lived at the same address one year ago,-8,Does not apply,4,L8 and L9: Small employers and own account workers,0
+W92000004,Wales,1,Lived at the same address one year ago,-8,Does not apply,5,L10 and L11: Lower supervisory and technical occupations,0
+W92000004,Wales,1,Lived at the same address one year ago,-8,Does not apply,6,L12: Semi-routine occupations,0
+W92000004,Wales,1,Lived at the same address one year ago,-8,Does not apply,7,L13: Routine occupations,0
+W92000004,Wales,1,Lived at the same address one year ago,-8,Does not apply,8,L14.1 and L14.2: Never worked and long-term unemployed,0
+W92000004,Wales,1,Lived at the same address one year ago,-8,Does not apply,9,L15: Full-time students,0
+W92000004,Wales,1,Lived at the same address one year ago,1,"Asian, Asian British or Asian Welsh",-8,Does not apply,17116
+W92000004,Wales,1,Lived at the same address one year ago,1,"Asian, Asian British or Asian Welsh",1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",6791
+W92000004,Wales,1,Lived at the same address one year ago,1,"Asian, Asian British or Asian Welsh",2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",8104
+W92000004,Wales,1,Lived at the same address one year ago,1,"Asian, Asian British or Asian Welsh",3,L7: Intermediate occupations,4420
+W92000004,Wales,1,Lived at the same address one year ago,1,"Asian, Asian British or Asian Welsh",4,L8 and L9: Small employers and own account workers,6561
+W92000004,Wales,1,Lived at the same address one year ago,1,"Asian, Asian British or Asian Welsh",5,L10 and L11: Lower supervisory and technical occupations,2945
+W92000004,Wales,1,Lived at the same address one year ago,1,"Asian, Asian British or Asian Welsh",6,L12: Semi-routine occupations,5455
+W92000004,Wales,1,Lived at the same address one year ago,1,"Asian, Asian British or Asian Welsh",7,L13: Routine occupations,4952
+W92000004,Wales,1,Lived at the same address one year ago,1,"Asian, Asian British or Asian Welsh",8,L14.1 and L14.2: Never worked and long-term unemployed,7620
+W92000004,Wales,1,Lived at the same address one year ago,1,"Asian, Asian British or Asian Welsh",9,L15: Full-time students,8322
+W92000004,Wales,1,Lived at the same address one year ago,2,"Black, Black British, Black Welsh, Caribbean or African",-8,Does not apply,5685
+W92000004,Wales,1,Lived at the same address one year ago,2,"Black, Black British, Black Welsh, Caribbean or African",1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",1356
+W92000004,Wales,1,Lived at the same address one year ago,2,"Black, Black British, Black Welsh, Caribbean or African",2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",2420
+W92000004,Wales,1,Lived at the same address one year ago,2,"Black, Black British, Black Welsh, Caribbean or African",3,L7: Intermediate occupations,1234
+W92000004,Wales,1,Lived at the same address one year ago,2,"Black, Black British, Black Welsh, Caribbean or African",4,L8 and L9: Small employers and own account workers,1205
+W92000004,Wales,1,Lived at the same address one year ago,2,"Black, Black British, Black Welsh, Caribbean or African",5,L10 and L11: Lower supervisory and technical occupations,550
+W92000004,Wales,1,Lived at the same address one year ago,2,"Black, Black British, Black Welsh, Caribbean or African",6,L12: Semi-routine occupations,1955
+W92000004,Wales,1,Lived at the same address one year ago,2,"Black, Black British, Black Welsh, Caribbean or African",7,L13: Routine occupations,1971
+W92000004,Wales,1,Lived at the same address one year ago,2,"Black, Black British, Black Welsh, Caribbean or African",8,L14.1 and L14.2: Never worked and long-term unemployed,2193
+W92000004,Wales,1,Lived at the same address one year ago,2,"Black, Black British, Black Welsh, Caribbean or African",9,L15: Full-time students,3000
+W92000004,Wales,1,Lived at the same address one year ago,3,Mixed or Multiple ethnic groups,-8,Does not apply,16867
+W92000004,Wales,1,Lived at the same address one year ago,3,Mixed or Multiple ethnic groups,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",2238
+W92000004,Wales,1,Lived at the same address one year ago,3,Mixed or Multiple ethnic groups,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",3873
+W92000004,Wales,1,Lived at the same address one year ago,3,Mixed or Multiple ethnic groups,3,L7: Intermediate occupations,2346
+W92000004,Wales,1,Lived at the same address one year ago,3,Mixed or Multiple ethnic groups,4,L8 and L9: Small employers and own account workers,1973
+W92000004,Wales,1,Lived at the same address one year ago,3,Mixed or Multiple ethnic groups,5,L10 and L11: Lower supervisory and technical occupations,1085
+W92000004,Wales,1,Lived at the same address one year ago,3,Mixed or Multiple ethnic groups,6,L12: Semi-routine occupations,2737
+W92000004,Wales,1,Lived at the same address one year ago,3,Mixed or Multiple ethnic groups,7,L13: Routine occupations,2690
+W92000004,Wales,1,Lived at the same address one year ago,3,Mixed or Multiple ethnic groups,8,L14.1 and L14.2: Never worked and long-term unemployed,2507
+W92000004,Wales,1,Lived at the same address one year ago,3,Mixed or Multiple ethnic groups,9,L15: Full-time students,3702
+W92000004,Wales,1,Lived at the same address one year ago,4,White,-8,Does not apply,429229
+W92000004,Wales,1,Lived at the same address one year ago,4,White,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",223523
+W92000004,Wales,1,Lived at the same address one year ago,4,White,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",438335
+W92000004,Wales,1,Lived at the same address one year ago,4,White,3,L7: Intermediate occupations,263687
+W92000004,Wales,1,Lived at the same address one year ago,4,White,4,L8 and L9: Small employers and own account workers,229098
+W92000004,Wales,1,Lived at the same address one year ago,4,White,5,L10 and L11: Lower supervisory and technical occupations,142818
+W92000004,Wales,1,Lived at the same address one year ago,4,White,6,L12: Semi-routine occupations,298138
+W92000004,Wales,1,Lived at the same address one year ago,4,White,7,L13: Routine occupations,301403
+W92000004,Wales,1,Lived at the same address one year ago,4,White,8,L14.1 and L14.2: Never worked and long-term unemployed,187253
+W92000004,Wales,1,Lived at the same address one year ago,4,White,9,L15: Full-time students,118377
+W92000004,Wales,1,Lived at the same address one year ago,5,Other ethnic group,-8,Does not apply,5607
+W92000004,Wales,1,Lived at the same address one year ago,5,Other ethnic group,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",1622
+W92000004,Wales,1,Lived at the same address one year ago,5,Other ethnic group,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",1663
+W92000004,Wales,1,Lived at the same address one year ago,5,Other ethnic group,3,L7: Intermediate occupations,858
+W92000004,Wales,1,Lived at the same address one year ago,5,Other ethnic group,4,L8 and L9: Small employers and own account workers,1617
+W92000004,Wales,1,Lived at the same address one year ago,5,Other ethnic group,5,L10 and L11: Lower supervisory and technical occupations,679
+W92000004,Wales,1,Lived at the same address one year ago,5,Other ethnic group,6,L12: Semi-routine occupations,1177
+W92000004,Wales,1,Lived at the same address one year ago,5,Other ethnic group,7,L13: Routine occupations,1584
+W92000004,Wales,1,Lived at the same address one year ago,5,Other ethnic group,8,L14.1 and L14.2: Never worked and long-term unemployed,3175
+W92000004,Wales,1,Lived at the same address one year ago,5,Other ethnic group,9,L15: Full-time students,3020
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",-8,Does not apply,-8,Does not apply,0
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",-8,Does not apply,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",0
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",-8,Does not apply,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",0
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",-8,Does not apply,3,L7: Intermediate occupations,0
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",-8,Does not apply,4,L8 and L9: Small employers and own account workers,0
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",-8,Does not apply,5,L10 and L11: Lower supervisory and technical occupations,0
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",-8,Does not apply,6,L12: Semi-routine occupations,0
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",-8,Does not apply,7,L13: Routine occupations,0
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",-8,Does not apply,8,L14.1 and L14.2: Never worked and long-term unemployed,0
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",-8,Does not apply,9,L15: Full-time students,0
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",1,"Asian, Asian British or Asian Welsh",-8,Does not apply,1394
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",1,"Asian, Asian British or Asian Welsh",1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",789
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",1,"Asian, Asian British or Asian Welsh",2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",777
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",1,"Asian, Asian British or Asian Welsh",3,L7: Intermediate occupations,322
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",1,"Asian, Asian British or Asian Welsh",4,L8 and L9: Small employers and own account workers,390
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",1,"Asian, Asian British or Asian Welsh",5,L10 and L11: Lower supervisory and technical occupations,194
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",1,"Asian, Asian British or Asian Welsh",6,L12: Semi-routine occupations,473
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",1,"Asian, Asian British or Asian Welsh",7,L13: Routine occupations,404
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",1,"Asian, Asian British or Asian Welsh",8,L14.1 and L14.2: Never worked and long-term unemployed,585
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",1,"Asian, Asian British or Asian Welsh",9,L15: Full-time students,2816
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",2,"Black, Black British, Black Welsh, Caribbean or African",-8,Does not apply,556
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",2,"Black, Black British, Black Welsh, Caribbean or African",1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",181
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",2,"Black, Black British, Black Welsh, Caribbean or African",2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",209
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",2,"Black, Black British, Black Welsh, Caribbean or African",3,L7: Intermediate occupations,138
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",2,"Black, Black British, Black Welsh, Caribbean or African",4,L8 and L9: Small employers and own account workers,110
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",2,"Black, Black British, Black Welsh, Caribbean or African",5,L10 and L11: Lower supervisory and technical occupations,65
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",2,"Black, Black British, Black Welsh, Caribbean or African",6,L12: Semi-routine occupations,200
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",2,"Black, Black British, Black Welsh, Caribbean or African",7,L13: Routine occupations,254
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",2,"Black, Black British, Black Welsh, Caribbean or African",8,L14.1 and L14.2: Never worked and long-term unemployed,263
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",2,"Black, Black British, Black Welsh, Caribbean or African",9,L15: Full-time students,971
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",3,Mixed or Multiple ethnic groups,-8,Does not apply,1581
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",3,Mixed or Multiple ethnic groups,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",282
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",3,Mixed or Multiple ethnic groups,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",491
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",3,Mixed or Multiple ethnic groups,3,L7: Intermediate occupations,280
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",3,Mixed or Multiple ethnic groups,4,L8 and L9: Small employers and own account workers,196
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",3,Mixed or Multiple ethnic groups,5,L10 and L11: Lower supervisory and technical occupations,125
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",3,Mixed or Multiple ethnic groups,6,L12: Semi-routine occupations,337
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",3,Mixed or Multiple ethnic groups,7,L13: Routine occupations,338
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",3,Mixed or Multiple ethnic groups,8,L14.1 and L14.2: Never worked and long-term unemployed,240
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",3,Mixed or Multiple ethnic groups,9,L15: Full-time students,1161
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",4,White,-8,Does not apply,34705
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",4,White,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",15150
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",4,White,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",30003
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",4,White,3,L7: Intermediate occupations,17540
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",4,White,4,L8 and L9: Small employers and own account workers,12392
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",4,White,5,L10 and L11: Lower supervisory and technical occupations,9264
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",4,White,6,L12: Semi-routine occupations,20007
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",4,White,7,L13: Routine occupations,19132
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",4,White,8,L14.1 and L14.2: Never worked and long-term unemployed,10838
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",4,White,9,L15: Full-time students,30850
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",5,Other ethnic group,-8,Does not apply,591
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",5,Other ethnic group,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",184
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",5,Other ethnic group,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",177
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",5,Other ethnic group,3,L7: Intermediate occupations,121
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",5,Other ethnic group,4,L8 and L9: Small employers and own account workers,139
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",5,Other ethnic group,5,L10 and L11: Lower supervisory and technical occupations,79
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",5,Other ethnic group,6,L12: Semi-routine occupations,127
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",5,Other ethnic group,7,L13: Routine occupations,265
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",5,Other ethnic group,8,L14.1 and L14.2: Never worked and long-term unemployed,359
+W92000004,Wales,2,"Inflow: lived elsewhere one year ago, but within the same area",5,Other ethnic group,9,L15: Full-time students,814
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",-8,Does not apply,-8,Does not apply,0
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",-8,Does not apply,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",0
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",-8,Does not apply,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",0
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",-8,Does not apply,3,L7: Intermediate occupations,0
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",-8,Does not apply,4,L8 and L9: Small employers and own account workers,0
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",-8,Does not apply,5,L10 and L11: Lower supervisory and technical occupations,0
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",-8,Does not apply,6,L12: Semi-routine occupations,0
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",-8,Does not apply,7,L13: Routine occupations,0
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",-8,Does not apply,8,L14.1 and L14.2: Never worked and long-term unemployed,0
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",-8,Does not apply,9,L15: Full-time students,0
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1,"Asian, Asian British or Asian Welsh",-8,Does not apply,259
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1,"Asian, Asian British or Asian Welsh",1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",514
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1,"Asian, Asian British or Asian Welsh",2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",343
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1,"Asian, Asian British or Asian Welsh",3,L7: Intermediate occupations,159
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1,"Asian, Asian British or Asian Welsh",4,L8 and L9: Small employers and own account workers,139
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1,"Asian, Asian British or Asian Welsh",5,L10 and L11: Lower supervisory and technical occupations,70
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1,"Asian, Asian British or Asian Welsh",6,L12: Semi-routine occupations,155
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1,"Asian, Asian British or Asian Welsh",7,L13: Routine occupations,92
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1,"Asian, Asian British or Asian Welsh",8,L14.1 and L14.2: Never worked and long-term unemployed,179
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1,"Asian, Asian British or Asian Welsh",9,L15: Full-time students,1332
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2,"Black, Black British, Black Welsh, Caribbean or African",-8,Does not apply,135
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2,"Black, Black British, Black Welsh, Caribbean or African",1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",144
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2,"Black, Black British, Black Welsh, Caribbean or African",2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",195
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2,"Black, Black British, Black Welsh, Caribbean or African",3,L7: Intermediate occupations,64
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2,"Black, Black British, Black Welsh, Caribbean or African",4,L8 and L9: Small employers and own account workers,52
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2,"Black, Black British, Black Welsh, Caribbean or African",5,L10 and L11: Lower supervisory and technical occupations,25
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2,"Black, Black British, Black Welsh, Caribbean or African",6,L12: Semi-routine occupations,47
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2,"Black, Black British, Black Welsh, Caribbean or African",7,L13: Routine occupations,46
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2,"Black, Black British, Black Welsh, Caribbean or African",8,L14.1 and L14.2: Never worked and long-term unemployed,46
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2,"Black, Black British, Black Welsh, Caribbean or African",9,L15: Full-time students,472
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3,Mixed or Multiple ethnic groups,-8,Does not apply,291
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3,Mixed or Multiple ethnic groups,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",184
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3,Mixed or Multiple ethnic groups,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",195
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3,Mixed or Multiple ethnic groups,3,L7: Intermediate occupations,96
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3,Mixed or Multiple ethnic groups,4,L8 and L9: Small employers and own account workers,64
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3,Mixed or Multiple ethnic groups,5,L10 and L11: Lower supervisory and technical occupations,30
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3,Mixed or Multiple ethnic groups,6,L12: Semi-routine occupations,59
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3,Mixed or Multiple ethnic groups,7,L13: Routine occupations,96
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3,Mixed or Multiple ethnic groups,8,L14.1 and L14.2: Never worked and long-term unemployed,71
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3,Mixed or Multiple ethnic groups,9,L15: Full-time students,730
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4,White,-8,Does not apply,3645
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4,White,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",6279
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4,White,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",8254
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4,White,3,L7: Intermediate occupations,3959
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4,White,4,L8 and L9: Small employers and own account workers,3335
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4,White,5,L10 and L11: Lower supervisory and technical occupations,1560
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4,White,6,L12: Semi-routine occupations,3484
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4,White,7,L13: Routine occupations,3270
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4,White,8,L14.1 and L14.2: Never worked and long-term unemployed,1884
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4,White,9,L15: Full-time students,14299
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5,Other ethnic group,-8,Does not apply,159
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5,Other ethnic group,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",121
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5,Other ethnic group,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",82
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5,Other ethnic group,3,L7: Intermediate occupations,32
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5,Other ethnic group,4,L8 and L9: Small employers and own account workers,58
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5,Other ethnic group,5,L10 and L11: Lower supervisory and technical occupations,16
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5,Other ethnic group,6,L12: Semi-routine occupations,45
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5,Other ethnic group,7,L13: Routine occupations,48
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5,Other ethnic group,8,L14.1 and L14.2: Never worked and long-term unemployed,103
+W92000004,Wales,3,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5,Other ethnic group,9,L15: Full-time students,318
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,-8,Does not apply,-8,Does not apply,0
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,-8,Does not apply,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",0
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,-8,Does not apply,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",0
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,-8,Does not apply,3,L7: Intermediate occupations,0
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,-8,Does not apply,4,L8 and L9: Small employers and own account workers,0
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,-8,Does not apply,5,L10 and L11: Lower supervisory and technical occupations,0
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,-8,Does not apply,6,L12: Semi-routine occupations,0
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,-8,Does not apply,7,L13: Routine occupations,0
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,-8,Does not apply,8,L14.1 and L14.2: Never worked and long-term unemployed,0
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,-8,Does not apply,9,L15: Full-time students,0
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,1,"Asian, Asian British or Asian Welsh",-8,Does not apply,530
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,1,"Asian, Asian British or Asian Welsh",1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",316
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,1,"Asian, Asian British or Asian Welsh",2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",650
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,1,"Asian, Asian British or Asian Welsh",3,L7: Intermediate occupations,87
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,1,"Asian, Asian British or Asian Welsh",4,L8 and L9: Small employers and own account workers,69
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,1,"Asian, Asian British or Asian Welsh",5,L10 and L11: Lower supervisory and technical occupations,37
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,1,"Asian, Asian British or Asian Welsh",6,L12: Semi-routine occupations,88
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,1,"Asian, Asian British or Asian Welsh",7,L13: Routine occupations,151
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,1,"Asian, Asian British or Asian Welsh",8,L14.1 and L14.2: Never worked and long-term unemployed,403
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,1,"Asian, Asian British or Asian Welsh",9,L15: Full-time students,2126
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,2,"Black, Black British, Black Welsh, Caribbean or African",-8,Does not apply,286
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,2,"Black, Black British, Black Welsh, Caribbean or African",1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",109
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,2,"Black, Black British, Black Welsh, Caribbean or African",2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",120
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,2,"Black, Black British, Black Welsh, Caribbean or African",3,L7: Intermediate occupations,42
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,2,"Black, Black British, Black Welsh, Caribbean or African",4,L8 and L9: Small employers and own account workers,20
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,2,"Black, Black British, Black Welsh, Caribbean or African",5,L10 and L11: Lower supervisory and technical occupations,7
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,2,"Black, Black British, Black Welsh, Caribbean or African",6,L12: Semi-routine occupations,35
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,2,"Black, Black British, Black Welsh, Caribbean or African",7,L13: Routine occupations,59
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,2,"Black, Black British, Black Welsh, Caribbean or African",8,L14.1 and L14.2: Never worked and long-term unemployed,109
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,2,"Black, Black British, Black Welsh, Caribbean or African",9,L15: Full-time students,646
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,3,Mixed or Multiple ethnic groups,-8,Does not apply,174
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,3,Mixed or Multiple ethnic groups,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",44
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,3,Mixed or Multiple ethnic groups,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",54
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,3,Mixed or Multiple ethnic groups,3,L7: Intermediate occupations,21
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,3,Mixed or Multiple ethnic groups,4,L8 and L9: Small employers and own account workers,28
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,3,Mixed or Multiple ethnic groups,5,L10 and L11: Lower supervisory and technical occupations,8
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,3,Mixed or Multiple ethnic groups,6,L12: Semi-routine occupations,14
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,3,Mixed or Multiple ethnic groups,7,L13: Routine occupations,34
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,3,Mixed or Multiple ethnic groups,8,L14.1 and L14.2: Never worked and long-term unemployed,39
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,3,Mixed or Multiple ethnic groups,9,L15: Full-time students,161
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,4,White,-8,Does not apply,696
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,4,White,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",1168
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,4,White,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",1418
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,4,White,3,L7: Intermediate occupations,659
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,4,White,4,L8 and L9: Small employers and own account workers,663
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,4,White,5,L10 and L11: Lower supervisory and technical occupations,303
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,4,White,6,L12: Semi-routine occupations,570
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,4,White,7,L13: Routine occupations,832
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,4,White,8,L14.1 and L14.2: Never worked and long-term unemployed,439
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,4,White,9,L15: Full-time students,1895
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,5,Other ethnic group,-8,Does not apply,236
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,5,Other ethnic group,1,"L1, L2 and L3: Higher managerial, administrative and professional occupations",112
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,5,Other ethnic group,2,"L4, L5 and L6: Lower managerial, administrative and professional occupations",76
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,5,Other ethnic group,3,L7: Intermediate occupations,19
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,5,Other ethnic group,4,L8 and L9: Small employers and own account workers,45
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,5,Other ethnic group,5,L10 and L11: Lower supervisory and technical occupations,11
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,5,Other ethnic group,6,L12: Semi-routine occupations,29
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,5,Other ethnic group,7,L13: Routine occupations,67
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,5,Other ethnic group,8,L14.1 and L14.2: Never worked and long-term unemployed,174
+W92000004,Wales,4,Inflow: lived elsewhere one year ago outside the UK,5,Other ethnic group,9,L15: Full-time students,454
