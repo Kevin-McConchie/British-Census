@@ -1,1987 +1,332 @@
-Lower tier local authorities code,Lower tier local authorities label,Migration LTLA (inflow) (6 categories) label,Count
-E08000025,Birmingham,Lived at the same address one year ago,1007979
-E08000035,Leeds,Lived at the same address one year ago,689265
-E06000052,Cornwall,Lived at the same address one year ago,504531
-E08000032,Bradford,Lived at the same address one year ago,495205
-E06000060,Buckinghamshire,Lived at the same address one year ago,491753
-E08000019,Sheffield,Lived at the same address one year ago,477722
-E06000047,County Durham,Lived at the same address one year ago,462529
-E06000054,Wiltshire,Lived at the same address one year ago,451882
-E08000003,Manchester,Lived at the same address one year ago,447358
-E08000012,Liverpool,Lived at the same address one year ago,407929
-E08000034,Kirklees,Lived at the same address one year ago,391650
-E06000023,Bristol,Lived at the same address one year ago,384980
-E06000062,West Northamptonshire,Lived at the same address one year ago,374987
-E06000049,Cheshire East,Lived at the same address one year ago,354254
-E09000008,Croydon,Lived at the same address one year ago,348079
-E06000058,"Bournemouth, Christchurch and Poole",Lived at the same address one year ago,341556
-E09000003,Barnet,Lived at the same address one year ago,340979
-E06000059,Dorset,Lived at the same address one year ago,339034
-E08000036,Wakefield,Lived at the same address one year ago,322088
-E06000061,North Northamptonshire,Lived at the same address one year ago,321138
-E06000050,Cheshire West and Chester,Lived at the same address one year ago,319031
-E09000009,Ealing,Lived at the same address one year ago,318950
-E06000016,Leicester,Lived at the same address one year ago,316171
-E08000028,Sandwell,Lived at the same address one year ago,312631
-E06000011,East Riding of Yorkshire,Lived at the same address one year ago,309073
-E09000025,Newham,Lived at the same address one year ago,300630
-E08000010,Wigan,Lived at the same address one year ago,300457
-W06000015,Cardiff,Lived at the same address one year ago,298761
-E09000010,Enfield,Lived at the same address one year ago,297539
-E08000027,Dudley,Lived at the same address one year ago,297536
-E09000006,Bromley,Lived at the same address one year ago,296806
-E08000015,Wirral,Lived at the same address one year ago,292543
-E09000005,Brent,Lived at the same address one year ago,292263
-E08000026,Coventry,Lived at the same address one year ago,292035
-E06000057,Northumberland,Lived at the same address one year ago,291003
-E06000051,Shropshire,Lived at the same address one year ago,288904
-E08000017,Doncaster,Lived at the same address one year ago,278598
-E09000026,Redbridge,Lived at the same address one year ago,276581
-E08000001,Bolton,Lived at the same address one year ago,269718
-E09000017,Hillingdon,Lived at the same address one year ago,268928
-E08000007,Stockport,Lived at the same address one year ago,267293
-E06000056,Central Bedfordshire,Lived at the same address one year ago,262317
-E09000023,Lewisham,Lived at the same address one year ago,261094
-E08000030,Walsall,Lived at the same address one year ago,260533
-E09000032,Wandsworth,Lived at the same address one year ago,259073
-E09000022,Lambeth,Lived at the same address one year ago,257605
-E06000025,South Gloucestershire,Lived at the same address one year ago,256216
-E08000014,Sefton,Lived at the same address one year ago,255273
-E06000018,Nottingham,Lived at the same address one year ago,254462
-E09000028,Southwark,Lived at the same address one year ago,253018
-E06000042,Milton Keynes,Lived at the same address one year ago,251500
-E09000018,Hounslow,Lived at the same address one year ago,251491
-E09000011,Greenwich,Lived at the same address one year ago,251008
-E08000024,Sunderland,Lived at the same address one year ago,249201
-E06000035,Medway,Lived at the same address one year ago,249091
-E09000031,Waltham Forest,Lived at the same address one year ago,244814
-E08000018,Rotherham,Lived at the same address one year ago,243529
-E09000030,Tower Hamlets,Lived at the same address one year ago,242585
-E08000021,Newcastle upon Tyne,Lived at the same address one year ago,240279
-E08000031,Wolverhampton,Lived at the same address one year ago,237073
-E09000016,Havering,Lived at the same address one year ago,236792
-E06000010,Kingston upon Hull,Lived at the same address one year ago,234758
-E09000015,Harrow,Lived at the same address one year ago,231461
-E06000021,Stoke-on-Trent,Lived at the same address one year ago,231163
-E06000015,Derby,Lived at the same address one year ago,230958
-E06000026,Plymouth,Lived at the same address one year ago,228567
-E08000006,Salford,Lived at the same address one year ago,227657
-E09000014,Haringey,Lived at the same address one year ago,225529
-E09000004,Bexley,Lived at the same address one year ago,223927
-E08000016,Barnsley,Lived at the same address one year ago,223186
-E08000004,Oldham,Lived at the same address one year ago,222762
-E06000043,Brighton and Hove,Lived at the same address one year ago,222495
-E07000244,East Suffolk,Lived at the same address one year ago,222082
-W06000016,Rhondda Cynon Taf,Lived at the same address one year ago,217432
-E09000012,Hackney,Lived at the same address one year ago,216060
-E08000009,Trafford,Lived at the same address one year ago,212373
-E08000008,Tameside,Lived at the same address one year ago,212106
-W06000011,Swansea,Lived at the same address one year ago,208798
-E06000030,Swindon,Lived at the same address one year ago,207185
-E06000045,Southampton,Lived at the same address one year ago,205699
-E08000005,Rochdale,Lived at the same address one year ago,204133
-E06000032,Luton,Lived at the same address one year ago,199321
-E09000002,Barking and Dagenham,Lived at the same address one year ago,197249
-E08000029,Solihull,Lived at the same address one year ago,196312
-E06000024,North Somerset,Lived at the same address one year ago,194056
-E06000007,Warrington,Lived at the same address one year ago,190566
-E08000022,North Tyneside,Lived at the same address one year ago,190194
-E06000031,Peterborough,Lived at the same address one year ago,190022
-E09000029,Sutton,Lived at the same address one year ago,188779
-E08000033,Calderdale,Lived at the same address one year ago,187492
-E09000024,Merton,Lived at the same address one year ago,187418
-E08000002,Bury,Lived at the same address one year ago,177515
-E06000004,Stockton-on-Tees,Lived at the same address one year ago,177459
-E08000037,Gateshead,Lived at the same address one year ago,177264
-E06000044,Portsmouth,Lived at the same address one year ago,172539
-E09000019,Islington,Lived at the same address one year ago,171904
-W06000010,Carmarthenshire,Lived at the same address one year ago,171252
-E07000066,Basildon,Lived at the same address one year ago,170212
-E09000027,Richmond upon Thames,Lived at the same address one year ago,169362
-E08000013,St. Helens,Lived at the same address one year ago,167625
-E06000019,Herefordshire,Lived at the same address one year ago,167361
-E06000014,York,Lived at the same address one year ago,166272
-E09000007,Camden,Lived at the same address one year ago,166136
-E07000071,Colchester,Lived at the same address one year ago,165752
-E06000020,Telford and Wrekin,Lived at the same address one year ago,164088
-E06000055,Bedford,Lived at the same address one year ago,163569
-E07000084,Basingstoke and Deane,Lived at the same address one year ago,163501
-W06000018,Caerphilly,Lived at the same address one year ago,163175
-E06000033,Southend-on-Sea,Lived at the same address one year ago,161571
-E07000070,Chelmsford,Lived at the same address one year ago,161258
-E07000011,Huntingdonshire,Lived at the same address one year ago,160516
-E09000033,Westminster,Lived at the same address one year ago,159859
-E06000034,Thurrock,Lived at the same address one year ago,158910
-E07000091,New Forest,Lived at the same address one year ago,158807
-E06000022,Bath and North East Somerset,Lived at the same address one year ago,157775
-E07000245,West Suffolk,Lived at the same address one year ago,156808
-E06000041,Wokingham,Lived at the same address one year ago,155972
-E07000130,Charnwood,Lived at the same address one year ago,155350
-E07000110,Maidstone,Lived at the same address one year ago,154595
-E06000013,North Lincolnshire,Lived at the same address one year ago,153708
-E07000189,South Somerset,Lived at the same address one year ago,153586
-E07000224,Arun,Lived at the same address one year ago,147238
-E09000021,Kingston upon Thames,Lived at the same address one year ago,145073
-W06000022,Newport,Lived at the same address one year ago,144983
-E09000013,Hammersmith and Fulham,Lived at the same address one year ago,144730
-E07000012,South Cambridgeshire,Lived at the same address one year ago,144234
-E06000037,West Berkshire,Lived at the same address one year ago,144163
-E06000038,Reading,Lived at the same address one year ago,143158
-E07000065,Wealden,Lived at the same address one year ago,143031
-E07000165,Harrogate,Lived at the same address one year ago,142404
-E08000011,Knowsley,Lived at the same address one year ago,141960
-W06000005,Flintshire,Lived at the same address one year ago,141876
-E06000012,North East Lincolnshire,Lived at the same address one year ago,141534
-E06000039,Slough,Lived at the same address one year ago,141154
-E07000177,Cherwell,Lived at the same address one year ago,140866
-E06000008,Blackburn with Darwen,Lived at the same address one year ago,140263
-E07000246,Somerset West and Taunton,Lived at the same address one year ago,140164
-E07000067,Braintree,Lived at the same address one year ago,139388
-E07000096,Dacorum,Lived at the same address one year ago,138733
-E07000146,King's Lynn and West Norfolk,Lived at the same address one year ago,138315
-E07000113,Swale,Lived at the same address one year ago,136337
-E08000023,South Tyneside,Lived at the same address one year ago,135696
-E07000228,Mid Sussex,Lived at the same address one year ago,135511
-E06000040,Windsor and Maidenhead,Lived at the same address one year ago,135155
-E07000211,Reigate and Banstead,Lived at the same address one year ago,133752
-E07000040,East Devon,Lived at the same address one year ago,133750
-E07000242,East Hertfordshire,Lived at the same address one year ago,133116
-E07000076,Tendring,Lived at the same address one year ago,133068
-W06000013,Bridgend,Lived at the same address one year ago,132888
-E07000240,St Albans,Lived at the same address one year ago,131172
-E07000179,South Oxfordshire,Lived at the same address one year ago,130905
-E07000227,Horsham,Lived at the same address one year ago,130228
-W06000012,Neath Port Talbot,Lived at the same address one year ago,130001
-E07000106,Canterbury,Lived at the same address one year ago,128987
-E07000141,South Kesteven,Lived at the same address one year ago,128896
-E07000137,East Lindsey,Lived at the same address one year ago,127817
-E07000149,South Norfolk,Lived at the same address one year ago,127205
-E07000123,Preston,Lived at the same address one year ago,126870
-E06000002,Middlesbrough,Lived at the same address one year ago,126757
-E07000143,Breckland,Lived at the same address one year ago,126542
-E06000009,Blackpool,Lived at the same address one year ago,126404
-E07000114,Thanet,Lived at the same address one year ago,125588
-E06000027,Torbay,Lived at the same address one year ago,125209
-E06000003,Redcar and Cleveland,Lived at the same address one year ago,125079
-E06000046,Isle of Wight,Lived at the same address one year ago,125061
-E07000222,Warwick,Lived at the same address one year ago,124706
-E07000202,Ipswich,Lived at the same address one year ago,124496
-W06000006,Wrexham,Lived at the same address one year ago,123208
-E07000197,Stafford,Lived at the same address one year ago,122511
-E07000086,Eastleigh,Lived at the same address one year ago,121904
-E07000207,Elmbridge,Lived at the same address one year ago,121876
-E07000072,Epping Forest,Lived at the same address one year ago,121778
-E07000219,Nuneaton and Bedworth,Lived at the same address one year ago,121503
-E07000045,Teignbridge,Lived at the same address one year ago,120899
-W06000023,Powys,Lived at the same address one year ago,120585
-E07000180,Vale of White Horse,Lived at the same address one year ago,120363
-E07000121,Lancaster,Lived at the same address one year ago,120291
-E07000144,Broadland,Lived at the same address one year ago,119810
-E07000238,Wychavon,Lived at the same address one year ago,119793
-E07000099,North Hertfordshire,Lived at the same address one year ago,119592
-E07000115,Tonbridge and Malling,Lived at the same address one year ago,119506
-E07000178,Oxford,Lived at the same address one year ago,119346
-W06000014,Vale of Glamorgan,Lived at the same address one year ago,118960
-E07000221,Stratford-on-Avon,Lived at the same address one year ago,118637
-E06000006,Halton,Lived at the same address one year ago,117889
-E07000105,Ashford,Lived at the same address one year ago,117596
-E07000081,Gloucester,Lived at the same address one year ago,117452
-E07000209,Guildford,Lived at the same address one year ago,116855
-E09000020,Kensington and Chelsea,Lived at the same address one year ago,116000
-E07000093,Test Valley,Lived at the same address one year ago,115950
-E07000148,Norwich,Lived at the same address one year ago,115724
-E07000170,Ashfield,Lived at the same address one year ago,115560
-E07000032,Amber Valley,Lived at the same address one year ago,115188
-E07000090,Havant,Lived at the same address one year ago,112860
-E07000188,Sedgemoor,Lived at the same address one year ago,112146
-E07000216,Waverley,Lived at the same address one year ago,112099
-E07000085,East Hampshire,Lived at the same address one year ago,112019
-W06000009,Pembrokeshire,Lived at the same address one year ago,111749
-E07000193,East Staffordshire,Lived at the same address one year ago,111415
-E07000008,Cambridge,Lived at the same address one year ago,110418
-E07000175,Newark and Sherwood,Lived at the same address one year ago,109649
-E07000195,Newcastle-under-Lyme,Lived at the same address one year ago,109237
-E06000036,Bracknell Forest,Lived at the same address one year ago,109161
-E07000082,Stroud,Lived at the same address one year ago,109125
-E07000111,Sevenoaks,Lived at the same address one year ago,108590
-E07000225,Chichester,Lived at the same address one year ago,107637
-E07000094,Winchester,Lived at the same address one year ago,107223
-E07000118,Chorley,Lived at the same address one year ago,106957
-E07000173,Gedling,Lived at the same address one year ago,106722
-E07000171,Bassetlaw,Lived at the same address one year ago,106234
-E07000139,North Kesteven,Lived at the same address one year ago,105238
-E07000176,Rushcliffe,Lived at the same address one year ago,104979
-E07000226,Crawley,Lived at the same address one year ago,104672
-W06000003,Conwy,Lived at the same address one year ago,104580
-E07000107,Dartford,Lived at the same address one year ago,104497
-E07000108,Dover,Lived at the same address one year ago,104388
-E07000187,Mendip,Lived at the same address one year ago,103716
-E07000087,Fareham,Lived at the same address one year ago,103553
-E07000132,Hinckley and Bosworth,Lived at the same address one year ago,103368
-W06000002,Gwynedd,Lived at the same address one year ago,103290
-E07000036,Erewash,Lived at the same address one year ago,103178
-E07000127,West Lancashire,Lived at the same address one year ago,102626
-E07000241,Welwyn Hatfield,Lived at the same address one year ago,101618
-E07000126,South Ribble,Lived at the same address one year ago,101311
-E07000041,Exeter,Lived at the same address one year ago,101257
-E07000078,Cheltenham,Lived at the same address one year ago,101105
-E07000116,Tunbridge Wells,Lived at the same address one year ago,100879
-E07000196,South Staffordshire,Lived at the same address one year ago,100707
-E07000220,Rugby,Lived at the same address one year ago,100477
-E07000128,Wyre,Lived at the same address one year ago,100186
-E07000174,Mansfield,Lived at the same address one year ago,99880
-E07000181,West Oxfordshire,Lived at the same address one year ago,99583
-E07000229,Worthing,Lived at the same address one year ago,99053
-E07000172,Broxtowe,Lived at the same address one year ago,98720
-E07000112,Folkestone and Hythe,Lived at the same address one year ago,98609
-E07000028,Carlisle,Lived at the same address one year ago,97949
-E07000168,Scarborough,Lived at the same address one year ago,97632
-E07000109,Gravesham,Lived at the same address one year ago,97032
-E07000098,Hertsmere,Lived at the same address one year ago,96588
-E06000005,Darlington,Lived at the same address one year ago,96393
-E07000194,Lichfield,Lived at the same address one year ago,96074
-E07000039,South Derbyshire,Lived at the same address one year ago,95899
-E07000034,Chesterfield,Lived at the same address one year ago,94295
-E07000031,South Lakeland,Lived at the same address one year ago,94108
-E07000129,Blaby,Lived at the same address one year ago,93863
-E07000134,North West Leicestershire,Lived at the same address one year ago,93679
-E07000038,North East Derbyshire,Lived at the same address one year ago,93195
-E07000147,North Norfolk,Lived at the same address one year ago,92797
-E07000239,Wyre Forest,Lived at the same address one year ago,92608
-E07000010,Fenland,Lived at the same address one year ago,92077
-E07000213,Spelthorne,Lived at the same address one year ago,91933
-E07000203,Mid Suffolk,Lived at the same address one year ago,91728
-E07000192,Cannock Chase,Lived at the same address one year ago,91533
-E07000217,Woking,Lived at the same address one year ago,91292
-E07000237,Worcester,Lived at the same address one year ago,90362
-E07000234,Bromsgrove,Lived at the same address one year ago,90089
-E07000103,Watford,Lived at the same address one year ago,89928
-E07000095,Broxbourne,Lived at the same address one year ago,89920
-E07000063,Lewes,Lived at the same address one year ago,89708
-E07000061,Eastbourne,Lived at the same address one year ago,89700
-E07000145,Great Yarmouth,Lived at the same address one year ago,89482
-E07000089,Hart,Lived at the same address one year ago,88144
-E07000026,Allerdale,Lived at the same address one year ago,88026
-E07000198,Staffordshire Moorlands,Lived at the same address one year ago,88005
-E07000092,Rushmoor,Lived at the same address one year ago,87474
-E07000043,North Devon,Lived at the same address one year ago,87343
-E07000122,Pendle,Lived at the same address one year ago,86758
-W06000004,Denbighshire,Lived at the same address one year ago,86650
-E07000131,Harborough,Lived at the same address one year ago,86571
-E07000142,West Lindsey,Lived at the same address one year ago,85377
-E07000117,Burnley,Lived at the same address one year ago,85149
-W06000020,Torfaen,Lived at the same address one year ago,84978
-E07000083,Tewkesbury,Lived at the same address one year ago,84942
-E07000102,Three Rivers,Lived at the same address one year ago,84829
-E07000140,South Holland,Lived at the same address one year ago,84681
-W06000021,Monmouthshire,Lived at the same address one year ago,84352
-E07000073,Harlow,Lived at the same address one year ago,83478
-E07000064,Rother,Lived at the same address one year ago,83472
-E06000001,Hartlepool,Lived at the same address one year ago,83134
-E07000200,Babergh,Lived at the same address one year ago,82818
-E07000169,Selby,Lived at the same address one year ago,82733
-E07000037,High Peak,Lived at the same address one year ago,82588
-E07000138,Lincoln,Lived at the same address one year ago,82370
-E07000069,Castle Point,Lived at the same address one year ago,82094
-E07000077,Uttlesford,Lived at the same address one year ago,81830
-E07000062,Hastings,Lived at the same address one year ago,81215
-E07000164,Hambleton,Lived at the same address one year ago,80884
-E07000243,Stevenage,Lived at the same address one year ago,80558
-E07000214,Surrey Heath,Lived at the same address one year ago,80540
-E07000079,Cotswold,Lived at the same address one year ago,79612
-E07000215,Tandridge,Lived at the same address one year ago,79207
-E07000236,Redditch,Lived at the same address one year ago,79035
-E07000009,East Cambridgeshire,Lived at the same address one year ago,78693
-E07000210,Mole Valley,Lived at the same address one year ago,78503
-E07000080,Forest of Dean,Lived at the same address one year ago,78417
-E07000044,South Hams,Lived at the same address one year ago,78376
-E07000075,Rochford,Lived at the same address one year ago,78219
-E07000120,Hyndburn,Lived at the same address one year ago,74958
-E07000042,Mid Devon,Lived at the same address one year ago,73915
-E07000088,Gosport,Lived at the same address one year ago,73406
-E07000212,Runnymede,Lived at the same address one year ago,73124
-E07000033,Bolsover,Lived at the same address one year ago,72631
-E07000119,Fylde,Lived at the same address one year ago,72519
-E07000208,Epsom and Ewell,Lived at the same address one year ago,72490
-E08000025,Birmingham,"Inflow: lived elsewhere one year ago, but within the same area",71452
-E07000235,Malvern Hills,Lived at the same address one year ago,71392
-E07000199,Tamworth,Lived at the same address one year ago,70964
-E08000035,Leeds,"Inflow: lived elsewhere one year ago, but within the same area",69090
-E07000068,Brentwood,Lived at the same address one year ago,68907
-E07000125,Rossendale,Lived at the same address one year ago,64691
-E07000035,Derbyshire Dales,Lived at the same address one year ago,64594
-W06000001,Isle of Anglesey,Lived at the same address one year ago,62781
-E07000136,Boston,Lived at the same address one year ago,62455
-W06000019,Blaenau Gwent,Lived at the same address one year ago,61608
-E07000027,Barrow-in-Furness,Lived at the same address one year ago,61225
-E07000029,Copeland,Lived at the same address one year ago,61156
-E07000046,Torridge,Lived at the same address one year ago,60865
-W06000008,Ceredigion,Lived at the same address one year ago,60421
-E07000074,Maldon,Lived at the same address one year ago,59566
-E07000218,North Warwickshire,Lived at the same address one year ago,59150
-E07000223,Adur,Lived at the same address one year ago,58796
-E07000124,Ribble Valley,Lived at the same address one year ago,54985
-W06000024,Merthyr Tydfil,Lived at the same address one year ago,54363
-E07000135,Oadby and Wigston,Lived at the same address one year ago,51284
-E07000047,West Devon,Lived at the same address one year ago,51151
-E07000163,Craven,Lived at the same address one year ago,51080
-E07000030,Eden,Lived at the same address one year ago,49710
-E07000167,Ryedale,Lived at the same address one year ago,48980
-E07000133,Melton,Lived at the same address one year ago,46601
-E08000003,Manchester,"Inflow: lived elsewhere one year ago, but within the same area",46102
-E06000023,Bristol,"Inflow: lived elsewhere one year ago, but within the same area",44650
-E08000019,Sheffield,"Inflow: lived elsewhere one year ago, but within the same area",43303
-E07000166,Richmondshire,Lived at the same address one year ago,42981
-E08000012,Liverpool,"Inflow: lived elsewhere one year ago, but within the same area",38667
-E06000052,Cornwall,"Inflow: lived elsewhere one year ago, but within the same area",38553
-E06000017,Rutland,Lived at the same address one year ago,36057
-E06000047,County Durham,"Inflow: lived elsewhere one year ago, but within the same area",34207
-W06000015,Cardiff,"Inflow: lived elsewhere one year ago, but within the same area",33176
-E06000058,"Bournemouth, Christchurch and Poole","Inflow: lived elsewhere one year ago, but within the same area",32268
-E08000021,Newcastle upon Tyne,"Inflow: lived elsewhere one year ago, but within the same area",30123
-E08000032,Bradford,"Inflow: lived elsewhere one year ago, but within the same area",29455
-E06000018,Nottingham,"Inflow: lived elsewhere one year ago, but within the same area",29276
-E06000043,Brighton and Hove,"Inflow: lived elsewhere one year ago, but within the same area",28866
-E06000054,Wiltshire,"Inflow: lived elsewhere one year ago, but within the same area",27659
-E06000062,West Northamptonshire,"Inflow: lived elsewhere one year ago, but within the same area",27504
-E06000060,Buckinghamshire,"Inflow: lived elsewhere one year ago, but within the same area",26654
-E08000026,Coventry,"Inflow: lived elsewhere one year ago, but within the same area",26024
-E06000016,Leicester,"Inflow: lived elsewhere one year ago, but within the same area",25279
-E09000032,Wandsworth,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",24641
-E09000022,Lambeth,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",24411
-E08000025,Birmingham,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",23607
-E09000030,Tower Hamlets,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",23233
-E08000034,Kirklees,"Inflow: lived elsewhere one year ago, but within the same area",22767
-E08000035,Leeds,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",22459
-E09000032,Wandsworth,"Inflow: lived elsewhere one year ago, but within the same area",22435
-E06000049,Cheshire East,"Inflow: lived elsewhere one year ago, but within the same area",22388
-E08000003,Manchester,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",21882
-E06000061,North Northamptonshire,"Inflow: lived elsewhere one year ago, but within the same area",21848
-E09000030,Tower Hamlets,"Inflow: lived elsewhere one year ago, but within the same area",21632
-E06000045,Southampton,"Inflow: lived elsewhere one year ago, but within the same area",21051
-E09000028,Southwark,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",21032
-E06000018,Nottingham,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",20937
-E06000026,Plymouth,"Inflow: lived elsewhere one year ago, but within the same area",20929
-E06000010,Kingston upon Hull,"Inflow: lived elsewhere one year ago, but within the same area",19348
-E06000050,Cheshire West and Chester,"Inflow: lived elsewhere one year ago, but within the same area",19330
-E06000059,Dorset,"Inflow: lived elsewhere one year ago, but within the same area",18995
-E09000019,Islington,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",18847
-E06000060,Buckinghamshire,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",18711
-E06000023,Bristol,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",18514
-E09000025,Newham,"Inflow: lived elsewhere one year ago, but within the same area",18420
-E06000042,Milton Keynes,"Inflow: lived elsewhere one year ago, but within the same area",18358
-E09000005,Brent,"Inflow: lived elsewhere one year ago, but within the same area",18339
-E09000012,Hackney,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",17965
-E09000009,Ealing,"Inflow: lived elsewhere one year ago, but within the same area",17880
-E06000044,Portsmouth,"Inflow: lived elsewhere one year ago, but within the same area",17821
-E06000014,York,"Inflow: lived elsewhere one year ago, but within the same area",17748
-E07000178,Oxford,"Inflow: lived elsewhere one year ago, but within the same area",17591
-E09000003,Barnet,"Inflow: lived elsewhere one year ago, but within the same area",17538
-E08000003,Manchester,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",17355
-E08000015,Wirral,"Inflow: lived elsewhere one year ago, but within the same area",17310
-E08000019,Sheffield,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",17263
-E06000011,East Riding of Yorkshire,"Inflow: lived elsewhere one year ago, but within the same area",17020
-E08000017,Doncaster,"Inflow: lived elsewhere one year ago, but within the same area",16944
-E08000036,Wakefield,"Inflow: lived elsewhere one year ago, but within the same area",16866
-E06000051,Shropshire,"Inflow: lived elsewhere one year ago, but within the same area",16634
-E09000008,Croydon,"Inflow: lived elsewhere one year ago, but within the same area",16583
-E09000022,Lambeth,"Inflow: lived elsewhere one year ago, but within the same area",16483
-E06000057,Northumberland,"Inflow: lived elsewhere one year ago, but within the same area",16039
-E09000033,Westminster,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",15996
-E06000015,Derby,"Inflow: lived elsewhere one year ago, but within the same area",15995
-E08000006,Salford,"Inflow: lived elsewhere one year ago, but within the same area",15972
-E09000007,Camden,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",15853
-W06000011,Swansea,"Inflow: lived elsewhere one year ago, but within the same area",15607
-E09000028,Southwark,"Inflow: lived elsewhere one year ago, but within the same area",15575
-E06000030,Swindon,"Inflow: lived elsewhere one year ago, but within the same area",15502
-E09000023,Lewisham,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",15492
-E08000010,Wigan,"Inflow: lived elsewhere one year ago, but within the same area",15275
-E09000014,Haringey,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",15222
-E08000012,Liverpool,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",15221
-E06000054,Wiltshire,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",15094
-E09000025,Newham,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",15043
-E08000024,Sunderland,"Inflow: lived elsewhere one year ago, but within the same area",14986
-E09000013,Hammersmith and Fulham,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",14964
-E06000022,Bath and North East Somerset,"Inflow: lived elsewhere one year ago, but within the same area",14958
-E09000003,Barnet,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",14915
-E09000005,Brent,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",14908
-E06000035,Medway,"Inflow: lived elsewhere one year ago, but within the same area",14711
-E09000009,Ealing,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",14579
-E09000018,Hounslow,"Inflow: lived elsewhere one year ago, but within the same area",14381
-E06000021,Stoke-on-Trent,"Inflow: lived elsewhere one year ago, but within the same area",14170
-E06000025,South Gloucestershire,"Inflow: lived elsewhere one year ago, but within the same area",14067
-E08000025,Birmingham,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",13966
-E08000001,Bolton,"Inflow: lived elsewhere one year ago, but within the same area",13911
-E09000011,Greenwich,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",13895
-E06000058,"Bournemouth, Christchurch and Poole","Inflow: lived elsewhere one year ago outside the associated area, but within the UK",13813
-E08000025,Birmingham,Inflow: lived elsewhere one year ago outside the UK,13642
-E09000017,Hillingdon,"Inflow: lived elsewhere one year ago, but within the same area",13604
-E06000038,Reading,"Inflow: lived elsewhere one year ago, but within the same area",13470
-W06000015,Cardiff,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",13346
-E06000031,Peterborough,"Inflow: lived elsewhere one year ago, but within the same area",13326
-E09000012,Hackney,"Inflow: lived elsewhere one year ago, but within the same area",13254
-E06000052,Cornwall,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",13197
-E09000010,Enfield,"Inflow: lived elsewhere one year ago, but within the same area",13104
-E07000008,Cambridge,"Inflow: lived elsewhere one year ago, but within the same area",13104
-E07000106,Canterbury,"Inflow: lived elsewhere one year ago, but within the same area",13102
-E08000021,Newcastle upon Tyne,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",13026
-E08000027,Dudley,"Inflow: lived elsewhere one year ago, but within the same area",12972
-E09000008,Croydon,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",12966
-E07000041,Exeter,"Inflow: lived elsewhere one year ago, but within the same area",12870
-E07000071,Colchester,"Inflow: lived elsewhere one year ago, but within the same area",12847
-E08000035,Leeds,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",12728
-E07000148,Norwich,"Inflow: lived elsewhere one year ago, but within the same area",12693
-E09000014,Haringey,"Inflow: lived elsewhere one year ago, but within the same area",12679
-E08000003,Manchester,Inflow: lived elsewhere one year ago outside the UK,12667
-E08000007,Stockport,"Inflow: lived elsewhere one year ago, but within the same area",12625
-E08000014,Sefton,"Inflow: lived elsewhere one year ago, but within the same area",12579
-E08000006,Salford,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",12511
-E06000023,Bristol,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",12474
-E09000031,Waltham Forest,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",12450
-E09000023,Lewisham,"Inflow: lived elsewhere one year ago, but within the same area",12402
-E09000006,Bromley,"Inflow: lived elsewhere one year ago, but within the same area",12368
-E08000031,Wolverhampton,"Inflow: lived elsewhere one year ago, but within the same area",12319
-E08000028,Sandwell,"Inflow: lived elsewhere one year ago, but within the same area",12311
-E08000018,Rotherham,"Inflow: lived elsewhere one year ago, but within the same area",12194
-E08000016,Barnsley,"Inflow: lived elsewhere one year ago, but within the same area",12158
-E06000024,North Somerset,"Inflow: lived elsewhere one year ago, but within the same area",12085
-E07000244,East Suffolk,"Inflow: lived elsewhere one year ago, but within the same area",12066
-E08000012,Liverpool,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",12040
-E06000056,Central Bedfordshire,"Inflow: lived elsewhere one year ago, but within the same area",12009
-E06000032,Luton,"Inflow: lived elsewhere one year ago, but within the same area",11973
-E07000130,Charnwood,"Inflow: lived elsewhere one year ago, but within the same area",11851
-E06000062,West Northamptonshire,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",11826
-E09000031,Waltham Forest,"Inflow: lived elsewhere one year ago, but within the same area",11757
-E07000121,Lancaster,"Inflow: lived elsewhere one year ago, but within the same area",11721
-E09000011,Greenwich,"Inflow: lived elsewhere one year ago, but within the same area",11639
-W06000016,Rhondda Cynon Taf,"Inflow: lived elsewhere one year ago, but within the same area",11621
-E07000178,Oxford,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",11589
-E06000020,Telford and Wrekin,"Inflow: lived elsewhere one year ago, but within the same area",11539
-E06000043,Brighton and Hove,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",11424
-E06000047,County Durham,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",11323
-E09000026,Redbridge,"Inflow: lived elsewhere one year ago, but within the same area",11317
-E09000019,Islington,"Inflow: lived elsewhere one year ago, but within the same area",11274
-E08000026,Coventry,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",11247
-E09000007,Camden,"Inflow: lived elsewhere one year ago, but within the same area",11224
-E09000006,Bromley,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",11139
-E09000032,Wandsworth,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",11087
-E09000024,Merton,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",11057
-E09000026,Redbridge,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",11057
-E06000007,Warrington,"Inflow: lived elsewhere one year ago, but within the same area",10928
-E09000013,Hammersmith and Fulham,"Inflow: lived elsewhere one year ago, but within the same area",10826
-E08000033,Calderdale,"Inflow: lived elsewhere one year ago, but within the same area",10764
-E09000033,Westminster,"Inflow: lived elsewhere one year ago, but within the same area",10759
-E06000004,Stockton-on-Tees,"Inflow: lived elsewhere one year ago, but within the same area",10717
-E07000084,Basingstoke and Deane,"Inflow: lived elsewhere one year ago, but within the same area",10617
-E08000030,Walsall,"Inflow: lived elsewhere one year ago, but within the same area",10580
-E09000030,Tower Hamlets,Inflow: lived elsewhere one year ago outside the UK,10525
-E09000020,Kensington and Chelsea,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",10491
-E09000015,Harrow,"Inflow: lived elsewhere one year ago, but within the same area",10372
-E07000008,Cambridge,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",10348
-E09000022,Lambeth,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",10263
-E06000019,Herefordshire,"Inflow: lived elsewhere one year ago, but within the same area",10199
-E09000017,Hillingdon,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",10092
-E06000016,Leicester,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",10090
-E06000055,Bedford,"Inflow: lived elsewhere one year ago, but within the same area",10078
-E06000012,North East Lincolnshire,"Inflow: lived elsewhere one year ago, but within the same area",10075
-E07000138,Lincoln,"Inflow: lived elsewhere one year ago, but within the same area",10070
-E06000022,Bath and North East Somerset,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",10042
-E06000025,South Gloucestershire,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",9947
-E07000165,Harrogate,"Inflow: lived elsewhere one year ago, but within the same area",9920
-E09000033,Westminster,Inflow: lived elsewhere one year ago outside the UK,9889
-E07000222,Warwick,"Inflow: lived elsewhere one year ago, but within the same area",9818
-E07000123,Preston,"Inflow: lived elsewhere one year ago, but within the same area",9788
-E08000022,North Tyneside,"Inflow: lived elsewhere one year ago, but within the same area",9774
-E08000005,Rochdale,"Inflow: lived elsewhere one year ago, but within the same area",9764
-E09000018,Hounslow,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",9745
-E06000046,Isle of Wight,"Inflow: lived elsewhere one year ago, but within the same area",9738
-E06000014,York,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",9719
-E08000035,Leeds,Inflow: lived elsewhere one year ago outside the UK,9592
-E08000004,Oldham,"Inflow: lived elsewhere one year ago, but within the same area",9585
-E06000013,North Lincolnshire,"Inflow: lived elsewhere one year ago, but within the same area",9579
-E06000018,Nottingham,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",9553
-E08000008,Tameside,"Inflow: lived elsewhere one year ago, but within the same area",9534
-E09000015,Harrow,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",9528
-E07000245,West Suffolk,"Inflow: lived elsewhere one year ago, but within the same area",9525
-E06000033,Southend-on-Sea,"Inflow: lived elsewhere one year ago, but within the same area",9457
-E09000016,Havering,"Inflow: lived elsewhere one year ago, but within the same area",9333
-E08000037,Gateshead,"Inflow: lived elsewhere one year ago, but within the same area",9244
-E07000209,Guildford,"Inflow: lived elsewhere one year ago, but within the same area",9215
-E06000059,Dorset,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",9189
-E06000042,Milton Keynes,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",9092
-E09000010,Enfield,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",9048
-E07000189,South Somerset,"Inflow: lived elsewhere one year ago, but within the same area",9048
-E08000009,Trafford,"Inflow: lived elsewhere one year ago, but within the same area",9021
-E07000011,Huntingdonshire,"Inflow: lived elsewhere one year ago, but within the same area",9002
-E08000021,Newcastle upon Tyne,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",8978
-W06000010,Carmarthenshire,"Inflow: lived elsewhere one year ago, but within the same area",8944
-E09000027,Richmond upon Thames,"Inflow: lived elsewhere one year ago, but within the same area",8918
-E07000110,Maidstone,"Inflow: lived elsewhere one year ago, but within the same area",8648
-E07000177,Cherwell,"Inflow: lived elsewhere one year ago, but within the same area",8531
-E07000246,Somerset West and Taunton,"Inflow: lived elsewhere one year ago, but within the same area",8492
-E06000002,Middlesbrough,"Inflow: lived elsewhere one year ago, but within the same area",8428
-E08000029,Solihull,"Inflow: lived elsewhere one year ago, but within the same area",8424
-E06000056,Central Bedfordshire,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",8410
-E07000070,Chelmsford,"Inflow: lived elsewhere one year ago, but within the same area",8366
-E09000030,Tower Hamlets,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",8354
-E07000224,Arun,"Inflow: lived elsewhere one year ago, but within the same area",8322
-E09000016,Havering,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",8311
-W06000015,Cardiff,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",8281
-E06000011,East Riding of Yorkshire,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",8242
-E07000114,Thanet,"Inflow: lived elsewhere one year ago, but within the same area",8236
-E07000078,Cheltenham,"Inflow: lived elsewhere one year ago, but within the same area",8203
-E09000007,Camden,Inflow: lived elsewhere one year ago outside the UK,8192
-E09000002,Barking and Dagenham,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",8179
-E09000027,Richmond upon Thames,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",8134
-E06000049,Cheshire East,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",8099
-E09000004,Bexley,"Inflow: lived elsewhere one year ago, but within the same area",8079
-E07000130,Charnwood,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",8073
-E09000024,Merton,"Inflow: lived elsewhere one year ago, but within the same area",8015
-E09000021,Kingston upon Thames,"Inflow: lived elsewhere one year ago, but within the same area",7956
-E06000043,Brighton and Hove,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",7941
-E09000028,Southwark,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",7936
-E06000009,Blackpool,"Inflow: lived elsewhere one year ago, but within the same area",7936
-E06000051,Shropshire,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",7935
-E07000091,New Forest,"Inflow: lived elsewhere one year ago, but within the same area",7883
-E06000059,Dorset,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",7866
-E08000013,St. Helens,"Inflow: lived elsewhere one year ago, but within the same area",7821
-E06000054,Wiltshire,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",7812
-E07000146,King's Lynn and West Norfolk,"Inflow: lived elsewhere one year ago, but within the same area",7798
-E06000049,Cheshire East,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",7738
-E07000202,Ipswich,"Inflow: lived elsewhere one year ago, but within the same area",7725
-E08000002,Bury,"Inflow: lived elsewhere one year ago, but within the same area",7646
-E07000041,Exeter,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",7639
-E09000025,Newham,Inflow: lived elsewhere one year ago outside the UK,7621
-E09000029,Sutton,"Inflow: lived elsewhere one year ago, but within the same area",7585
-E06000008,Blackburn with Darwen,"Inflow: lived elsewhere one year ago, but within the same area",7556
-E06000027,Torbay,"Inflow: lived elsewhere one year ago, but within the same area",7506
-E08000007,Stockport,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",7480
-E07000076,Tendring,"Inflow: lived elsewhere one year ago, but within the same area",7463
-W06000002,Gwynedd,"Inflow: lived elsewhere one year ago, but within the same area",7438
-E06000037,West Berkshire,"Inflow: lived elsewhere one year ago, but within the same area",7430
-E07000113,Swale,"Inflow: lived elsewhere one year ago, but within the same area",7406
-E08000028,Sandwell,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",7395
-W06000018,Caerphilly,"Inflow: lived elsewhere one year ago, but within the same area",7379
-E06000041,Wokingham,"Inflow: lived elsewhere one year ago, but within the same area",7354
-E06000045,Southampton,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",7351
-E06000039,Slough,"Inflow: lived elsewhere one year ago, but within the same area",7311
-E07000040,East Devon,"Inflow: lived elsewhere one year ago, but within the same area",7276
-E07000066,Basildon,"Inflow: lived elsewhere one year ago, but within the same area",7230
-E08000012,Liverpool,Inflow: lived elsewhere one year ago outside the UK,7212
-E07000209,Guildford,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",7153
-E06000045,Southampton,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",7141
-E07000081,Gloucester,"Inflow: lived elsewhere one year ago, but within the same area",7136
-E07000094,Winchester,"Inflow: lived elsewhere one year ago, but within the same area",7128
-E08000026,Coventry,Inflow: lived elsewhere one year ago outside the UK,7120
-E08000010,Wigan,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",7104
-E07000148,Norwich,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",7101
-E07000105,Ashford,"Inflow: lived elsewhere one year ago, but within the same area",7076
-E06000016,Leicester,Inflow: lived elsewhere one year ago outside the UK,7032
-E08000023,South Tyneside,"Inflow: lived elsewhere one year ago, but within the same area",7023
-E06000034,Thurrock,"Inflow: lived elsewhere one year ago, but within the same area",7004
-W06000005,Flintshire,"Inflow: lived elsewhere one year ago, but within the same area",6995
-E09000004,Bexley,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",6982
-W06000013,Bridgend,"Inflow: lived elsewhere one year ago, but within the same area",6946
-E07000028,Carlisle,"Inflow: lived elsewhere one year ago, but within the same area",6939
-E07000241,Welwyn Hatfield,"Inflow: lived elsewhere one year ago, but within the same area",6890
-E09000020,Kensington and Chelsea,"Inflow: lived elsewhere one year ago, but within the same area",6881
-W06000022,Newport,"Inflow: lived elsewhere one year ago, but within the same area",6879
-E06000041,Wokingham,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",6878
-E07000240,St Albans,"Inflow: lived elsewhere one year ago, but within the same area",6862
-W06000006,Wrexham,"Inflow: lived elsewhere one year ago, but within the same area",6855
-E07000137,East Lindsey,"Inflow: lived elsewhere one year ago, but within the same area",6838
-E09000028,Southwark,Inflow: lived elsewhere one year ago outside the UK,6838
-E06000003,Redcar and Cleveland,"Inflow: lived elsewhere one year ago, but within the same area",6823
-E06000061,North Northamptonshire,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",6796
-E07000141,South Kesteven,"Inflow: lived elsewhere one year ago, but within the same area",6765
-E06000044,Portsmouth,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",6759
-E06000047,County Durham,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",6734
-E07000228,Mid Sussex,"Inflow: lived elsewhere one year ago, but within the same area",6728
-E07000197,Stafford,"Inflow: lived elsewhere one year ago, but within the same area",6723
-E09000029,Sutton,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",6710
-E08000019,Sheffield,Inflow: lived elsewhere one year ago outside the UK,6704
-E07000180,Vale of White Horse,"Inflow: lived elsewhere one year ago, but within the same area",6699
-E09000007,Camden,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",6692
-E08000027,Dudley,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",6679
-E07000226,Crawley,"Inflow: lived elsewhere one year ago, but within the same area",6677
-E07000065,Wealden,"Inflow: lived elsewhere one year ago, but within the same area",6668
-E06000023,Bristol,Inflow: lived elsewhere one year ago outside the UK,6665
-E07000067,Braintree,"Inflow: lived elsewhere one year ago, but within the same area",6646
-E08000036,Wakefield,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",6638
-E06000050,Cheshire West and Chester,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",6635
-E06000052,Cornwall,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",6629
-E07000242,East Hertfordshire,"Inflow: lived elsewhere one year ago, but within the same area",6604
-E07000178,Oxford,Inflow: lived elsewhere one year ago outside the UK,6582
-E06000050,Cheshire West and Chester,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",6568
-E07000143,Breckland,"Inflow: lived elsewhere one year ago, but within the same area",6541
-E08000009,Trafford,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",6536
-E08000034,Kirklees,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",6518
-E07000106,Canterbury,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",6506
-E06000060,Buckinghamshire,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",6476
-E07000227,Horsham,"Inflow: lived elsewhere one year ago, but within the same area",6459
-W06000009,Pembrokeshire,"Inflow: lived elsewhere one year ago, but within the same area",6443
-E07000221,Stratford-on-Avon,"Inflow: lived elsewhere one year ago, but within the same area",6424
-E07000094,Winchester,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",6399
-E07000209,Guildford,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",6398
-E08000032,Bradford,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",6384
-E07000188,Sedgemoor,"Inflow: lived elsewhere one year ago, but within the same area",6362
-E07000179,South Oxfordshire,"Inflow: lived elsewhere one year ago, but within the same area",6359
-E07000045,Teignbridge,"Inflow: lived elsewhere one year ago, but within the same area",6336
-E08000006,Salford,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",6334
-E07000096,Dacorum,"Inflow: lived elsewhere one year ago, but within the same area",6331
-W06000014,Vale of Glamorgan,"Inflow: lived elsewhere one year ago, but within the same area",6321
-E09000002,Barking and Dagenham,"Inflow: lived elsewhere one year ago, but within the same area",6313
-E06000040,Windsor and Maidenhead,"Inflow: lived elsewhere one year ago, but within the same area",6310
-E06000056,Central Bedfordshire,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",6309
-E08000030,Walsall,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",6305
-E09000021,Kingston upon Thames,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",6290
-E07000237,Worcester,"Inflow: lived elsewhere one year ago, but within the same area",6283
-E07000220,Rugby,"Inflow: lived elsewhere one year ago, but within the same area",6262
-E09000019,Islington,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",6251
-E07000181,West Oxfordshire,"Inflow: lived elsewhere one year ago, but within the same area",6246
-E06000018,Nottingham,Inflow: lived elsewhere one year ago outside the UK,6246
-E09000032,Wandsworth,Inflow: lived elsewhere one year ago outside the UK,6245
-E09000001,City of London,Lived at the same address one year ago,6235
-E07000008,Cambridge,Inflow: lived elsewhere one year ago outside the UK,6194
-E07000225,Chichester,"Inflow: lived elsewhere one year ago, but within the same area",6148
-E07000168,Scarborough,"Inflow: lived elsewhere one year ago, but within the same area",6139
-E06000005,Darlington,"Inflow: lived elsewhere one year ago, but within the same area",6114
-E09000009,Ealing,Inflow: lived elsewhere one year ago outside the UK,6105
-E06000038,Reading,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",6098
-E06000022,Bath and North East Somerset,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",6062
-W06000023,Powys,"Inflow: lived elsewhere one year ago, but within the same area",6057
-E08000029,Solihull,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",6036
-E06000035,Medway,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",6033
-E07000207,Elmbridge,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",6024
-E07000108,Dover,"Inflow: lived elsewhere one year ago, but within the same area",5965
-E07000127,West Lancashire,"Inflow: lived elsewhere one year ago, but within the same area",5962
-E07000219,Nuneaton and Bedworth,"Inflow: lived elsewhere one year ago, but within the same area",5961
-E07000193,East Staffordshire,"Inflow: lived elsewhere one year ago, but within the same area",5942
-E07000175,Newark and Sherwood,"Inflow: lived elsewhere one year ago, but within the same area",5924
-E06000001,Hartlepool,"Inflow: lived elsewhere one year ago, but within the same area",5924
-E07000012,South Cambridgeshire,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5922
-E09000003,Barnet,Inflow: lived elsewhere one year ago outside the UK,5918
-E06000026,Plymouth,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5916
-E07000211,Reigate and Banstead,"Inflow: lived elsewhere one year ago, but within the same area",5900
-E07000195,Newcastle-under-Lyme,"Inflow: lived elsewhere one year ago, but within the same area",5887
-E07000012,South Cambridgeshire,"Inflow: lived elsewhere one year ago, but within the same area",5873
-E09000033,Westminster,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",5867
-E09000019,Islington,Inflow: lived elsewhere one year ago outside the UK,5861
-E06000044,Portsmouth,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",5856
-W06000012,Neath Port Talbot,"Inflow: lived elsewhere one year ago, but within the same area",5853
-E06000006,Halton,"Inflow: lived elsewhere one year ago, but within the same area",5835
-E07000145,Great Yarmouth,"Inflow: lived elsewhere one year ago, but within the same area",5832
-E08000019,Sheffield,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5804
-E06000016,Leicester,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5788
-E07000086,Eastleigh,"Inflow: lived elsewhere one year ago, but within the same area",5777
-E09000013,Hammersmith and Fulham,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",5775
-E09000022,Lambeth,Inflow: lived elsewhere one year ago outside the UK,5748
-E07000065,Wealden,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5742
-E06000051,Shropshire,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5696
-E07000110,Maidstone,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5680
-E07000171,Bassetlaw,"Inflow: lived elsewhere one year ago, but within the same area",5679
-E07000043,North Devon,"Inflow: lived elsewhere one year ago, but within the same area",5677
-E09000005,Brent,Inflow: lived elsewhere one year ago outside the UK,5669
-E09000020,Kensington and Chelsea,Inflow: lived elsewhere one year ago outside the UK,5642
-E06000038,Reading,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5612
-E06000036,Bracknell Forest,"Inflow: lived elsewhere one year ago, but within the same area",5595
-E07000061,Eastbourne,"Inflow: lived elsewhere one year ago, but within the same area",5594
-E07000149,South Norfolk,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5571
-E07000229,Worthing,"Inflow: lived elsewhere one year ago, but within the same area",5550
-E07000178,Oxford,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5534
-E07000093,Test Valley,"Inflow: lived elsewhere one year ago, but within the same area",5512
-E07000207,Elmbridge,"Inflow: lived elsewhere one year ago, but within the same area",5495
-E07000127,West Lancashire,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5489
-E07000244,East Suffolk,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5481
-E06000034,Thurrock,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",5481
-W06000008,Ceredigion,"Inflow: lived elsewhere one year ago, but within the same area",5478
-E07000222,Warwick,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",5462
-E09000009,Ealing,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",5450
-E07000116,Tunbridge Wells,"Inflow: lived elsewhere one year ago, but within the same area",5443
-E07000106,Canterbury,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5441
-E08000031,Wolverhampton,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5437
-W06000011,Swansea,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5426
-E07000216,Waverley,"Inflow: lived elsewhere one year ago, but within the same area",5408
-E09000003,Barnet,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",5397
-E08000014,Sefton,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5393
-E07000179,South Oxfordshire,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5391
-E07000149,South Norfolk,"Inflow: lived elsewhere one year ago, but within the same area",5371
-E07000086,Eastleigh,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5308
-W06000003,Conwy,"Inflow: lived elsewhere one year ago, but within the same area",5288
-E06000057,Northumberland,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5287
-E06000019,Herefordshire,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",5252
-E07000212,Runnymede,"Inflow: lived elsewhere one year ago, but within the same area",5235
-E07000245,West Suffolk,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5227
-E09000018,Hounslow,Inflow: lived elsewhere one year ago outside the UK,5226
-E07000112,Folkestone and Hythe,"Inflow: lived elsewhere one year ago, but within the same area",5211
-E07000041,Exeter,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5209
-E07000211,Reigate and Banstead,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",5187
-W06000015,Cardiff,Inflow: lived elsewhere one year ago outside the UK,5185
-E09000017,Hillingdon,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",5156
-E07000225,Chichester,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5124
-E07000130,Charnwood,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5119
-E06000026,Plymouth,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",5114
-E06000024,North Somerset,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5109
-E07000180,Vale of White Horse,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5083
-E07000072,Epping Forest,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",5082
-E07000071,Colchester,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5082
-E07000071,Colchester,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",5071
-E06000058,"Bournemouth, Christchurch and Poole","Inflow: lived elsewhere one year ago outside the area, but within the associated area",5069
-E07000128,Wyre,"Inflow: lived elsewhere one year ago, but within the same area",5040
-E07000227,Horsham,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5037
-E07000187,Mendip,"Inflow: lived elsewhere one year ago, but within the same area",5036
-E06000025,South Gloucestershire,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",5033
-E07000138,Lincoln,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",5033
-E07000032,Amber Valley,"Inflow: lived elsewhere one year ago, but within the same area",5031
-E07000176,Rushcliffe,"Inflow: lived elsewhere one year ago, but within the same area",5019
-E07000085,East Hampshire,"Inflow: lived elsewhere one year ago, but within the same area",5009
-E07000224,Arun,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",5003
-E07000148,Norwich,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",4990
-E09000013,Hammersmith and Fulham,Inflow: lived elsewhere one year ago outside the UK,4984
-E08000026,Coventry,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4975
-E07000222,Warwick,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4971
-E07000140,South Holland,"Inflow: lived elsewhere one year ago, but within the same area",4970
-E07000139,North Kesteven,"Inflow: lived elsewhere one year ago, but within the same area",4964
-E06000045,Southampton,Inflow: lived elsewhere one year ago outside the UK,4963
-E06000035,Medway,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4947
-E07000099,North Hertfordshire,"Inflow: lived elsewhere one year ago, but within the same area",4929
-E07000082,Stroud,"Inflow: lived elsewhere one year ago, but within the same area",4927
-E07000107,Dartford,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",4925
-E08000032,Bradford,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",4925
-E06000015,Derby,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",4916
-E07000031,South Lakeland,"Inflow: lived elsewhere one year ago, but within the same area",4899
-E07000067,Braintree,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4893
-E07000238,Wychavon,"Inflow: lived elsewhere one year ago, but within the same area",4889
-W06000011,Swansea,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",4885
-E07000196,South Staffordshire,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4831
-E06000014,York,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4820
-E07000228,Mid Sussex,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4814
-E07000010,Fenland,"Inflow: lived elsewhere one year ago, but within the same area",4809
-E07000117,Burnley,"Inflow: lived elsewhere one year ago, but within the same area",4783
-E07000070,Chelmsford,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4775
-E06000036,Bracknell Forest,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4767
-E09000011,Greenwich,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",4762
-E07000085,East Hampshire,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4757
-E07000241,Welwyn Hatfield,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",4750
-E07000239,Wyre Forest,"Inflow: lived elsewhere one year ago, but within the same area",4746
-E08000021,Newcastle upon Tyne,Inflow: lived elsewhere one year ago outside the UK,4740
-E07000040,East Devon,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4739
-E08000034,Kirklees,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",4739
-E07000174,Mansfield,"Inflow: lived elsewhere one year ago, but within the same area",4726
-E08000011,Knowsley,"Inflow: lived elsewhere one year ago, but within the same area",4725
-E06000031,Peterborough,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",4717
-E07000217,Woking,"Inflow: lived elsewhere one year ago, but within the same area",4710
-E08000037,Gateshead,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4698
-E06000032,Luton,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",4694
-E07000176,Rushcliffe,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4691
-E07000144,Broadland,"Inflow: lived elsewhere one year ago, but within the same area",4688
-E06000057,Northumberland,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",4680
-E07000118,Chorley,"Inflow: lived elsewhere one year ago, but within the same area",4671
-E07000062,Hastings,"Inflow: lived elsewhere one year ago, but within the same area",4667
-E09000005,Brent,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",4650
-E06000010,Kingston upon Hull,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4643
-E07000084,Basingstoke and Deane,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4631
-E08000011,Knowsley,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4628
-E07000134,North West Leicestershire,"Inflow: lived elsewhere one year ago, but within the same area",4612
-E07000123,Preston,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4606
-W06000004,Denbighshire,"Inflow: lived elsewhere one year ago, but within the same area",4601
-E08000001,Bolton,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4595
-E07000090,Havant,"Inflow: lived elsewhere one year ago, but within the same area",4593
-E07000132,Hinckley and Bosworth,"Inflow: lived elsewhere one year ago, but within the same area",4573
-E07000098,Hertsmere,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",4568
-E07000216,Waverley,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4565
-E07000144,Broadland,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4558
-E07000011,Huntingdonshire,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4543
-E07000092,Rushmoor,"Inflow: lived elsewhere one year ago, but within the same area",4539
-E07000170,Ashfield,"Inflow: lived elsewhere one year ago, but within the same area",4531
-E07000034,Chesterfield,"Inflow: lived elsewhere one year ago, but within the same area",4530
-E09000025,Newham,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",4527
-E07000026,Allerdale,"Inflow: lived elsewhere one year ago, but within the same area",4520
-E09000008,Croydon,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",4509
-E07000240,St Albans,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",4465
-E07000122,Pendle,"Inflow: lived elsewhere one year ago, but within the same area",4451
-E07000036,Erewash,"Inflow: lived elsewhere one year ago, but within the same area",4445
-E07000136,Boston,"Inflow: lived elsewhere one year ago, but within the same area",4424
-E09000012,Hackney,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",4411
-E06000007,Warrington,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4402
-E06000015,Derby,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4401
-E07000177,Cherwell,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",4389
-E07000008,Cambridge,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4389
-E06000040,Windsor and Maidenhead,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",4387
-E07000096,Dacorum,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",4365
-E06000055,Bedford,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",4357
-E08000022,North Tyneside,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4350
-E07000143,Breckland,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4329
-E09000017,Hillingdon,Inflow: lived elsewhere one year ago outside the UK,4325
-E07000221,Stratford-on-Avon,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4316
-E07000087,Fareham,"Inflow: lived elsewhere one year ago, but within the same area",4312
-E07000072,Epping Forest,"Inflow: lived elsewhere one year ago, but within the same area",4306
-E08000008,Tameside,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4303
-E09000023,Lewisham,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",4294
-E07000094,Winchester,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",4292
-E07000242,East Hertfordshire,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4292
-E07000091,New Forest,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",4290
-E06000021,Stoke-on-Trent,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4282
-E06000040,Windsor and Maidenhead,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4280
-E07000073,Harlow,"Inflow: lived elsewhere one year ago, but within the same area",4277
-E08000017,Doncaster,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4264
-E07000115,Tonbridge and Malling,"Inflow: lived elsewhere one year ago, but within the same area",4261
-E07000189,South Somerset,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4260
-E08000018,Rotherham,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4249
-E07000126,South Ribble,"Inflow: lived elsewhere one year ago, but within the same area",4248
-E07000121,Lancaster,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",4240
-E07000172,Broxtowe,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4232
-E08000002,Bury,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4229
-E06000062,West Northamptonshire,Inflow: lived elsewhere one year ago outside the UK,4228
-E07000088,Gosport,"Inflow: lived elsewhere one year ago, but within the same area",4204
-E07000236,Redditch,"Inflow: lived elsewhere one year ago, but within the same area",4190
-E08000016,Barnsley,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4188
-E07000128,Wyre,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4181
-E07000037,High Peak,"Inflow: lived elsewhere one year ago, but within the same area",4180
-E08000013,St. Helens,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4178
-E08000005,Rochdale,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4176
-E07000103,Watford,"Inflow: lived elsewhere one year ago, but within the same area",4175
-E07000090,Havant,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4169
-E07000111,Sevenoaks,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",4167
-E06000043,Brighton and Hove,Inflow: lived elsewhere one year ago outside the UK,4162
-E07000203,Mid Suffolk,"Inflow: lived elsewhere one year ago, but within the same area",4120
-E07000212,Runnymede,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",4116
-E07000147,North Norfolk,"Inflow: lived elsewhere one year ago, but within the same area",4111
-E07000245,West Suffolk,Inflow: lived elsewhere one year ago outside the UK,4106
-E09000021,Kingston upon Thames,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",4102
-E06000037,West Berkshire,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4101
-E06000011,East Riding of Yorkshire,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",4088
-W06000020,Torfaen,"Inflow: lived elsewhere one year ago, but within the same area",4084
-E09000012,Hackney,Inflow: lived elsewhere one year ago outside the UK,4069
-E07000093,Test Valley,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4068
-E07000165,Harrogate,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",4061
-E07000063,Lewes,"Inflow: lived elsewhere one year ago, but within the same area",4028
-E07000138,Lincoln,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",4022
-E07000213,Spelthorne,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",4015
-E07000173,Gedling,"Inflow: lived elsewhere one year ago, but within the same area",4012
-E07000142,West Lindsey,"Inflow: lived elsewhere one year ago, but within the same area",3997
-E06000039,Slough,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3993
-E07000079,Cotswold,"Inflow: lived elsewhere one year ago, but within the same area",3987
-E07000180,Vale of White Horse,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3984
-E09000011,Greenwich,Inflow: lived elsewhere one year ago outside the UK,3981
-E07000039,South Derbyshire,"Inflow: lived elsewhere one year ago, but within the same area",3979
-E07000131,Harborough,"Inflow: lived elsewhere one year ago, but within the same area",3979
-E07000115,Tonbridge and Malling,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3971
-E07000203,Mid Suffolk,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3970
-E07000173,Gedling,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3969
-E07000070,Chelmsford,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3963
-E06000021,Stoke-on-Trent,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3953
-E09000026,Redbridge,Inflow: lived elsewhere one year ago outside the UK,3952
-E07000216,Waverley,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3942
-E07000027,Barrow-in-Furness,"Inflow: lived elsewhere one year ago, but within the same area",3941
-E07000177,Cherwell,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3933
-E07000099,North Hertfordshire,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3927
-E09000014,Haringey,Inflow: lived elsewhere one year ago outside the UK,3917
-E06000038,Reading,Inflow: lived elsewhere one year ago outside the UK,3913
-E07000089,Hart,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3908
-E07000109,Gravesham,"Inflow: lived elsewhere one year ago, but within the same area",3905
-E07000234,Bromsgrove,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3903
-E07000042,Mid Devon,"Inflow: lived elsewhere one year ago, but within the same area",3893
-E07000076,Tendring,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3892
-E08000006,Salford,Inflow: lived elsewhere one year ago outside the UK,3891
-E07000179,South Oxfordshire,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3886
-E06000030,Swindon,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3883
-E07000194,Lichfield,"Inflow: lived elsewhere one year ago, but within the same area",3874
-E07000192,Cannock Chase,"Inflow: lived elsewhere one year ago, but within the same area",3863
-E09000014,Haringey,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3858
-E07000087,Fareham,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3854
-E07000172,Broxtowe,"Inflow: lived elsewhere one year ago, but within the same area",3848
-E07000078,Cheltenham,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3848
-E07000137,East Lindsey,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3847
-E06000060,Buckinghamshire,Inflow: lived elsewhere one year ago outside the UK,3841
-E07000045,Teignbridge,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3830
-E07000164,Hambleton,"Inflow: lived elsewhere one year ago, but within the same area",3818
-E07000066,Basildon,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3813
-E06000058,"Bournemouth, Christchurch and Poole",Inflow: lived elsewhere one year ago outside the UK,3811
-E08000032,Bradford,Inflow: lived elsewhere one year ago outside the UK,3809
-E09000018,Hounslow,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3792
-E07000165,Harrogate,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3785
-E07000131,Harborough,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3781
-E09000006,Bromley,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3777
-E07000194,Lichfield,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3774
-E07000118,Chorley,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3761
-E06000032,Luton,Inflow: lived elsewhere one year ago outside the UK,3752
-W06000023,Powys,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3752
-E07000011,Huntingdonshire,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3751
-E07000110,Maidstone,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3738
-E07000244,East Suffolk,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3730
-E07000129,Blaby,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3727
-E07000103,Watford,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3725
-E07000079,Cotswold,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3720
-E06000041,Wokingham,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3719
-E07000169,Selby,"Inflow: lived elsewhere one year ago, but within the same area",3719
-E07000238,Wychavon,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3717
-E06000020,Telford and Wrekin,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3700
-E07000175,Newark and Sherwood,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3699
-E08000004,Oldham,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3699
-E07000113,Swale,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3675
-E07000009,East Cambridgeshire,"Inflow: lived elsewhere one year ago, but within the same area",3675
-E09000015,Harrow,Inflow: lived elsewhere one year ago outside the UK,3667
-E07000170,Ashfield,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3660
-E07000199,Tamworth,"Inflow: lived elsewhere one year ago, but within the same area",3649
-E07000229,Worthing,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3648
-E07000242,East Hertfordshire,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3620
-E07000116,Tunbridge Wells,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3617
-E08000015,Wirral,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3606
-E07000139,North Kesteven,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3601
-E07000089,Hart,"Inflow: lived elsewhere one year ago, but within the same area",3599
-E07000200,Babergh,"Inflow: lived elsewhere one year ago, but within the same area",3590
-E07000243,Stevenage,"Inflow: lived elsewhere one year ago, but within the same area",3585
-E07000044,South Hams,"Inflow: lived elsewhere one year ago, but within the same area",3582
-E07000181,West Oxfordshire,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3577
-E07000082,Stroud,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3574
-E09000010,Enfield,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3571
-E08000017,Doncaster,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3567
-W06000016,Rhondda Cynon Taf,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3565
-E07000141,South Kesteven,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3564
-E07000121,Lancaster,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3563
-E09000027,Richmond upon Thames,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3558
-E07000195,Newcastle-under-Lyme,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3550
-E07000208,Epsom and Ewell,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3543
-E07000120,Hyndburn,"Inflow: lived elsewhere one year ago, but within the same area",3537
-E07000213,Spelthorne,"Inflow: lived elsewhere one year ago, but within the same area",3535
-E08000024,Sunderland,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3531
-E07000197,Stafford,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3527
-E07000081,Gloucester,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3523
-E06000061,North Northamptonshire,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3496
-E09000008,Croydon,Inflow: lived elsewhere one year ago outside the UK,3492
-E07000126,South Ribble,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3488
-E07000200,Babergh,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3483
-E07000221,Stratford-on-Avon,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3468
-E07000064,Rother,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3463
-E07000102,Three Rivers,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3459
-W06000021,Monmouthshire,"Inflow: lived elsewhere one year ago, but within the same area",3458
-E07000198,Staffordshire Moorlands,"Inflow: lived elsewhere one year ago, but within the same area",3458
-E07000092,Rushmoor,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3453
-E07000214,Surrey Heath,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3451
-E07000083,Tewkesbury,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3443
-E07000111,Sevenoaks,"Inflow: lived elsewhere one year ago, but within the same area",3442
-E07000212,Runnymede,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3434
-E09000023,Lewisham,Inflow: lived elsewhere one year ago outside the UK,3430
-E07000078,Cheltenham,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3425
-E06000033,Southend-on-Sea,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3424
-E07000119,Fylde,"Inflow: lived elsewhere one year ago, but within the same area",3421
-E07000215,Tandridge,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3404
-E07000064,Rother,"Inflow: lived elsewhere one year ago, but within the same area",3396
-E06000055,Bedford,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3392
-E07000029,Copeland,"Inflow: lived elsewhere one year ago, but within the same area",3377
-E07000169,Selby,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3371
-W06000002,Gwynedd,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3367
-E07000225,Chichester,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3364
-E07000063,Lewes,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3364
-E07000105,Ashford,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3355
-E07000220,Rugby,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3339
-E07000107,Dartford,"Inflow: lived elsewhere one year ago, but within the same area",3337
-E06000054,Wiltshire,Inflow: lived elsewhere one year ago outside the UK,3334
-E07000095,Broxbourne,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3317
-E07000246,Somerset West and Taunton,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3309
-E07000098,Hertsmere,"Inflow: lived elsewhere one year ago, but within the same area",3305
-E07000032,Amber Valley,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3302
-E09000004,Bexley,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3286
-E09000026,Redbridge,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3283
-E09000027,Richmond upon Thames,Inflow: lived elsewhere one year ago outside the UK,3280
-E06000033,Southend-on-Sea,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3265
-E07000116,Tunbridge Wells,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3259
-E07000134,North West Leicestershire,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3248
-E07000188,Sedgemoor,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3248
-E07000044,South Hams,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3246
-E07000189,South Somerset,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3230
-E07000237,Worcester,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3229
-E07000080,Forest of Dean,"Inflow: lived elsewhere one year ago, but within the same area",3225
-E06000004,Stockton-on-Tees,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3207
-E07000066,Basildon,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3184
-E07000083,Tewkesbury,"Inflow: lived elsewhere one year ago, but within the same area",3178
-E07000077,Uttlesford,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3175
-E07000202,Ipswich,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3175
-E07000046,Torridge,"Inflow: lived elsewhere one year ago, but within the same area",3175
-E07000192,Cannock Chase,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3174
-E06000037,West Berkshire,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3165
-E07000039,South Derbyshire,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3165
-E06000042,Milton Keynes,Inflow: lived elsewhere one year ago outside the UK,3162
-E06000010,Kingston upon Hull,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3161
-E09000015,Harrow,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3142
-E07000187,Mendip,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3142
-E07000095,Broxbourne,"Inflow: lived elsewhere one year ago, but within the same area",3140
-E07000040,East Devon,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3134
-E07000036,Erewash,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3119
-E07000038,North East Derbyshire,"Inflow: lived elsewhere one year ago, but within the same area",3119
-E07000077,Uttlesford,"Inflow: lived elsewhere one year ago, but within the same area",3116
-E07000012,South Cambridgeshire,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3106
-W06000001,Isle of Anglesey,"Inflow: lived elsewhere one year ago, but within the same area",3106
-E07000211,Reigate and Banstead,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3102
-E07000146,King's Lynn and West Norfolk,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3091
-E07000147,North Norfolk,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3086
-E09000020,Kensington and Chelsea,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3081
-E08000033,Calderdale,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3071
-E07000119,Fylde,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3062
-E09000016,Havering,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3057
-E07000234,Bromsgrove,"Inflow: lived elsewhere one year ago, but within the same area",3049
-E06000020,Telford and Wrekin,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3034
-E08000031,Wolverhampton,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3030
-E07000140,South Holland,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3026
-E07000061,Eastbourne,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3024
-E07000241,Welwyn Hatfield,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3019
-W06000010,Carmarthenshire,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3013
-E06000009,Blackpool,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",3013
-E07000093,Test Valley,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",3012
-E09000010,Enfield,Inflow: lived elsewhere one year ago outside the UK,3006
-E07000129,Blaby,"Inflow: lived elsewhere one year ago, but within the same area",3001
-E09000024,Merton,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2998
-W06000014,Vale of Glamorgan,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2972
-W06000019,Blaenau Gwent,"Inflow: lived elsewhere one year ago, but within the same area",2970
-E07000214,Surrey Heath,"Inflow: lived elsewhere one year ago, but within the same area",2961
-E09000024,Merton,Inflow: lived elsewhere one year ago outside the UK,2960
-E07000195,Newcastle-under-Lyme,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2943
-E07000174,Mansfield,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2927
-E07000069,Castle Point,"Inflow: lived elsewhere one year ago, but within the same area",2918
-E07000219,Nuneaton and Bedworth,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2907
-E07000217,Woking,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2896
-E07000228,Mid Sussex,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2891
-W06000008,Ceredigion,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2886
-E07000096,Dacorum,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2885
-E07000181,West Oxfordshire,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2861
-E07000193,East Staffordshire,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2858
-E09000031,Waltham Forest,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2856
-E07000125,Rossendale,"Inflow: lived elsewhere one year ago, but within the same area",2849
-E07000235,Malvern Hills,"Inflow: lived elsewhere one year ago, but within the same area",2831
-E09000021,Kingston upon Thames,Inflow: lived elsewhere one year ago outside the UK,2827
-E07000166,Richmondshire,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2824
-E07000084,Basingstoke and Deane,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2820
-W06000005,Flintshire,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2818
-E07000171,Bassetlaw,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2815
-E07000068,Brentwood,"Inflow: lived elsewhere one year ago, but within the same area",2810
-E07000033,Bolsover,"Inflow: lived elsewhere one year ago, but within the same area",2809
-E06000002,Middlesbrough,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2809
-E06000022,Bath and North East Somerset,Inflow: lived elsewhere one year ago outside the UK,2806
-E06000044,Portsmouth,Inflow: lived elsewhere one year ago outside the UK,2802
-E08000031,Wolverhampton,Inflow: lived elsewhere one year ago outside the UK,2794
-E07000068,Brentwood,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2792
-E08000034,Kirklees,Inflow: lived elsewhere one year ago outside the UK,2788
-E07000075,Rochford,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2780
-E07000209,Guildford,Inflow: lived elsewhere one year ago outside the UK,2775
-E07000246,Somerset West and Taunton,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2774
-E07000108,Dover,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2773
-E07000091,New Forest,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2769
-E07000196,South Staffordshire,"Inflow: lived elsewhere one year ago, but within the same area",2757
-W06000013,Bridgend,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2757
-E07000037,High Peak,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2752
-E07000139,North Kesteven,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2747
-E07000009,East Cambridgeshire,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2746
-E08000007,Stockport,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2745
-E07000099,North Hertfordshire,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2741
-E07000210,Mole Valley,"Inflow: lived elsewhere one year ago, but within the same area",2740
-E07000039,South Derbyshire,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2735
-E07000240,St Albans,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2731
-E07000065,Wealden,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2727
-E06000008,Blackburn with Darwen,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2727
-E06000062,West Northamptonshire,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2713
-E07000227,Horsham,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2706
-W06000012,Neath Port Talbot,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2690
-E06000036,Bracknell Forest,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2664
-E07000124,Ribble Valley,"Inflow: lived elsewhere one year ago, but within the same area",2659
-E06000047,County Durham,Inflow: lived elsewhere one year ago outside the UK,2657
-E07000075,Rochford,"Inflow: lived elsewhere one year ago, but within the same area",2657
-E07000042,Mid Devon,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2649
-E06000049,Cheshire East,Inflow: lived elsewhere one year ago outside the UK,2646
-E06000052,Cornwall,Inflow: lived elsewhere one year ago outside the UK,2643
-E07000176,Rushcliffe,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2629
-E09000031,Waltham Forest,Inflow: lived elsewhere one year ago outside the UK,2628
-E07000164,Hambleton,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2627
-E07000146,King's Lynn and West Norfolk,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2627
-E07000010,Fenland,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2623
-E08000028,Sandwell,Inflow: lived elsewhere one year ago outside the UK,2622
-E07000114,Thanet,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2612
-E08000028,Sandwell,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2609
-E08000009,Trafford,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2599
-W06000018,Caerphilly,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2598
-E06000031,Peterborough,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2589
-W06000022,Newport,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2585
-E08000015,Wirral,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2583
-E07000033,Bolsover,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2581
-E09000029,Sutton,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2579
-E07000226,Crawley,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2578
-E08000036,Wakefield,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2569
-E07000041,Exeter,Inflow: lived elsewhere one year ago outside the UK,2568
-E06000014,York,Inflow: lived elsewhere one year ago outside the UK,2564
-E07000210,Mole Valley,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2553
-E07000235,Malvern Hills,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2552
-E07000074,Maldon,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2539
-E06000061,North Northamptonshire,Inflow: lived elsewhere one year ago outside the UK,2534
-E06000027,Torbay,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2526
-E07000115,Tonbridge and Malling,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2525
-E07000218,North Warwickshire,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2519
-E07000112,Folkestone and Hythe,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2514
-E07000035,Derbyshire Dales,"Inflow: lived elsewhere one year ago, but within the same area",2494
-E07000167,Ryedale,"Inflow: lived elsewhere one year ago, but within the same area",2494
-E07000223,Adur,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2484
-E07000217,Woking,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2475
-W06000021,Monmouthshire,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2467
-E06000024,North Somerset,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2448
-E06000004,Stockton-on-Tees,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2443
-E07000067,Braintree,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2436
-E07000187,Mendip,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2432
-E07000069,Castle Point,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2430
-E07000245,West Suffolk,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2428
-E08000033,Calderdale,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2419
-E07000123,Preston,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2418
-W06000010,Carmarthenshire,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2410
-E07000239,Wyre Forest,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2404
-E07000124,Ribble Valley,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2395
-E07000123,Preston,Inflow: lived elsewhere one year ago outside the UK,2384
-E07000238,Wychavon,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2384
-E07000030,Eden,"Inflow: lived elsewhere one year ago, but within the same area",2381
-E06000032,Luton,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2380
-E07000038,North East Derbyshire,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2372
-E06000046,Isle of Wight,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2366
-W06000024,Merthyr Tydfil,"Inflow: lived elsewhere one year ago, but within the same area",2365
-E07000105,Ashford,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2362
-E07000142,West Lindsey,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2359
-E07000080,Forest of Dean,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2352
-E06000027,Torbay,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2330
-E07000197,Stafford,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2325
-E07000163,Craven,"Inflow: lived elsewhere one year ago, but within the same area",2322
-E07000135,Oadby and Wigston,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2321
-E06000031,Peterborough,Inflow: lived elsewhere one year ago outside the UK,2315
-E07000241,Welwyn Hatfield,Inflow: lived elsewhere one year ago outside the UK,2315
-E07000142,West Lindsey,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2313
-E07000111,Sevenoaks,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2310
-E07000044,South Hams,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2310
-E06000050,Cheshire West and Chester,Inflow: lived elsewhere one year ago outside the UK,2306
-E07000172,Broxtowe,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2305
-E07000074,Maldon,"Inflow: lived elsewhere one year ago, but within the same area",2302
-E07000210,Mole Valley,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2300
-E07000133,Melton,"Inflow: lived elsewhere one year ago, but within the same area",2293
-E08000018,Rotherham,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2292
-E07000164,Hambleton,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2286
-E07000076,Tendring,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2284
-E07000199,Tamworth,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2281
-E07000141,South Kesteven,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2279
-E07000132,Hinckley and Bosworth,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2274
-E08000001,Bolton,Inflow: lived elsewhere one year ago outside the UK,2272
-E06000006,Halton,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2268
-E09000006,Bromley,Inflow: lived elsewhere one year ago outside the UK,2264
-W06000003,Conwy,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2261
-W06000009,Pembrokeshire,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2257
-E07000109,Gravesham,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2252
-E08000029,Solihull,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2247
-E06000030,Swindon,Inflow: lived elsewhere one year ago outside the UK,2246
-E06000002,Middlesbrough,Inflow: lived elsewhere one year ago outside the UK,2244
-E07000043,North Devon,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2243
-W06000006,Wrexham,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2238
-E06000012,North East Lincolnshire,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2237
-E07000081,Gloucester,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2237
-E07000047,West Devon,"Inflow: lived elsewhere one year ago, but within the same area",2236
-W06000022,Newport,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2228
-E07000137,East Lindsey,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2223
-E07000045,Teignbridge,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2215
-E07000113,Swale,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2187
-E06000039,Slough,Inflow: lived elsewhere one year ago outside the UK,2185
-E07000220,Rugby,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2183
-E07000208,Epsom and Ewell,"Inflow: lived elsewhere one year ago, but within the same area",2182
-E09000002,Barking and Dagenham,Inflow: lived elsewhere one year ago outside the UK,2179
-E07000038,North East Derbyshire,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2177
-E07000224,Arun,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2176
-E06000015,Derby,Inflow: lived elsewhere one year ago outside the UK,2175
-E07000106,Canterbury,Inflow: lived elsewhere one year ago outside the UK,2166
-E08000037,Gateshead,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2156
-E07000085,East Hampshire,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2152
-E07000089,Hart,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2150
-E07000215,Tandridge,"Inflow: lived elsewhere one year ago, but within the same area",2148
-E08000014,Sefton,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2146
-E07000088,Gosport,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2145
-E07000102,Three Rivers,"Inflow: lived elsewhere one year ago, but within the same area",2144
-E07000207,Elmbridge,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2139
-E08000009,Trafford,Inflow: lived elsewhere one year ago outside the UK,2131
-E07000222,Warwick,Inflow: lived elsewhere one year ago outside the UK,2125
-E07000073,Harlow,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2120
-E07000132,Hinckley and Bosworth,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2110
-E07000035,Derbyshire Dales,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2108
-E07000028,Carlisle,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2108
-E07000092,Rushmoor,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2100
-E06000025,South Gloucestershire,Inflow: lived elsewhere one year ago outside the UK,2095
-E07000079,Cotswold,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2082
-E08000023,South Tyneside,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2079
-E06000030,Swindon,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2076
-E07000120,Hyndburn,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2073
-E07000148,Norwich,Inflow: lived elsewhere one year ago outside the UK,2069
-E07000031,South Lakeland,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2069
-E06000005,Darlington,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2067
-E07000237,Worcester,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2066
-E06000002,Middlesbrough,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2051
-E07000243,Stevenage,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2040
-E07000114,Thanet,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2036
-E08000024,Sunderland,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2028
-E06000013,North Lincolnshire,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2021
-E07000166,Richmondshire,"Inflow: lived elsewhere one year ago, but within the same area",2010
-W06000012,Neath Port Talbot,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2009
-E07000117,Burnley,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2009
-E07000175,Newark and Sherwood,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2009
-E06000010,Kingston upon Hull,Inflow: lived elsewhere one year ago outside the UK,2009
-E07000043,North Devon,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",2003
-E07000143,Breckland,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",2002
-E07000031,South Lakeland,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1993
-E07000082,Stroud,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1992
-E07000226,Crawley,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1986
-E07000223,Adur,"Inflow: lived elsewhere one year ago, but within the same area",1984
-E07000147,North Norfolk,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1984
-E07000125,Rossendale,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1983
-E08000030,Walsall,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1970
-E07000071,Colchester,Inflow: lived elsewhere one year ago outside the UK,1962
-E07000131,Harborough,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1945
-E07000236,Redditch,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1940
-E07000218,North Warwickshire,"Inflow: lived elsewhere one year ago, but within the same area",1936
-E07000080,Forest of Dean,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1932
-E07000188,Sedgemoor,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1929
-E07000198,Staffordshire Moorlands,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1927
-E08000001,Bolton,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1922
-E07000112,Folkestone and Hythe,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1920
-E06000013,North Lincolnshire,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1919
-E07000047,West Devon,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1911
-E07000149,South Norfolk,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1910
-E07000130,Charnwood,Inflow: lived elsewhere one year ago outside the UK,1906
-E06000040,Windsor and Maidenhead,Inflow: lived elsewhere one year ago outside the UK,1903
-E07000109,Gravesham,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1902
-E07000077,Uttlesford,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1901
-E06000056,Central Bedfordshire,Inflow: lived elsewhere one year ago outside the UK,1897
-E07000214,Surrey Heath,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1895
-E07000034,Chesterfield,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1893
-E07000062,Hastings,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1888
-E07000083,Tewkesbury,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1883
-E07000121,Lancaster,Inflow: lived elsewhere one year ago outside the UK,1883
-E08000022,North Tyneside,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1878
-E07000127,West Lancashire,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1872
-E06000041,Wokingham,Inflow: lived elsewhere one year ago outside the UK,1859
-E07000145,Great Yarmouth,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1857
-E06000053,Isles of Scilly,Lived at the same address one year ago,1847
-E06000017,Rutland,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1831
-E06000059,Dorset,Inflow: lived elsewhere one year ago outside the UK,1827
-E08000010,Wigan,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1818
-W06000016,Rhondda Cynon Taf,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1807
-E08000024,Sunderland,Inflow: lived elsewhere one year ago outside the UK,1800
-W06000014,Vale of Glamorgan,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1799
-E09000002,Barking and Dagenham,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1788
-E06000007,Warrington,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1787
-E06000051,Shropshire,Inflow: lived elsewhere one year ago outside the UK,1785
-E08000027,Dudley,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1780
-W06000011,Swansea,Inflow: lived elsewhere one year ago outside the UK,1771
-E06000021,Stoke-on-Trent,Inflow: lived elsewhere one year ago outside the UK,1771
-E07000168,Scarborough,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1765
-E07000062,Hastings,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1764
-E07000103,Watford,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1759
-E07000134,North West Leicestershire,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1750
-E07000235,Malvern Hills,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1748
-E07000102,Three Rivers,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1738
-E07000193,East Staffordshire,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1736
-E07000168,Scarborough,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1732
-E07000219,Nuneaton and Bedworth,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1731
-W06000004,Denbighshire,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1724
-E08000016,Barnsley,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1719
-E06000026,Plymouth,Inflow: lived elsewhere one year ago outside the UK,1715
-E07000135,Oadby and Wigston,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1712
-E06000035,Medway,Inflow: lived elsewhere one year ago outside the UK,1711
-E07000207,Elmbridge,Inflow: lived elsewhere one year ago outside the UK,1708
-E07000215,Tandridge,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1704
-E06000042,Milton Keynes,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1701
-E07000061,Eastbourne,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1698
-E06000039,Slough,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1693
-E07000046,Torridge,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1676
-E06000055,Bedford,Inflow: lived elsewhere one year ago outside the UK,1672
-E07000108,Dover,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1672
-W06000008,Ceredigion,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1670
-E09000029,Sutton,Inflow: lived elsewhere one year ago outside the UK,1669
-W06000004,Denbighshire,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1663
-E06000005,Darlington,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1659
-E07000072,Epping Forest,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1658
-E07000064,Rother,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1655
-E07000202,Ipswich,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1644
-E06000046,Isle of Wight,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1631
-E07000107,Dartford,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1626
-E07000084,Basingstoke and Deane,Inflow: lived elsewhere one year ago outside the UK,1615
-E06000003,Redcar and Cleveland,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1610
-E07000171,Bassetlaw,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1608
-E08000008,Tameside,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1606
-E07000073,Harlow,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1602
-W06000002,Gwynedd,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1594
-E06000019,Herefordshire,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1590
-E07000034,Chesterfield,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1583
-E07000046,Torridge,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1581
-E08000004,Oldham,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1569
-E07000010,Fenland,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1553
-E07000035,Derbyshire Dales,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1551
-E07000133,Melton,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1551
-W06000021,Monmouthshire,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1551
-E07000063,Lewes,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1539
-E07000177,Cherwell,Inflow: lived elsewhere one year ago outside the UK,1530
-E07000213,Spelthorne,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1528
-E07000122,Pendle,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1518
-E06000003,Redcar and Cleveland,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1515
-E07000167,Ryedale,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1490
-E08000004,Oldham,Inflow: lived elsewhere one year ago outside the UK,1487
-E07000243,Stevenage,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1478
-E07000198,Staffordshire Moorlands,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1473
-E09000016,Havering,Inflow: lived elsewhere one year ago outside the UK,1469
-E07000203,Mid Suffolk,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1468
-E07000086,Eastleigh,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1467
-E07000135,Oadby and Wigston,"Inflow: lived elsewhere one year ago, but within the same area",1467
-W06000001,Isle of Anglesey,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1465
-E08000007,Stockport,Inflow: lived elsewhere one year ago outside the UK,1457
-E08000005,Rochdale,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1455
-E08000017,Doncaster,Inflow: lived elsewhere one year ago outside the UK,1454
-E08000005,Rochdale,Inflow: lived elsewhere one year ago outside the UK,1454
-W06000020,Torfaen,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1452
-E07000229,Worthing,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1446
-E07000194,Lichfield,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1440
-E07000240,St Albans,Inflow: lived elsewhere one year ago outside the UK,1433
-E07000028,Carlisle,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1432
-E07000163,Craven,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1430
-E07000200,Babergh,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1425
-W06000009,Pembrokeshire,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1405
-E07000163,Craven,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1404
-E08000030,Walsall,Inflow: lived elsewhere one year ago outside the UK,1400
-E07000087,Fareham,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1397
-E08000014,Sefton,Inflow: lived elsewhere one year ago outside the UK,1396
-E07000012,South Cambridgeshire,Inflow: lived elsewhere one year ago outside the UK,1395
-E07000098,Hertsmere,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1387
-E07000180,Vale of White Horse,Inflow: lived elsewhere one year ago outside the UK,1387
-E07000217,Woking,Inflow: lived elsewhere one year ago outside the UK,1384
-E09000004,Bexley,Inflow: lived elsewhere one year ago outside the UK,1382
-E06000009,Blackpool,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1381
-E07000103,Watford,Inflow: lived elsewhere one year ago outside the UK,1380
-W06000005,Flintshire,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1361
-E07000070,Chelmsford,Inflow: lived elsewhere one year ago outside the UK,1360
-E08000036,Wakefield,Inflow: lived elsewhere one year ago outside the UK,1351
-E06000007,Warrington,Inflow: lived elsewhere one year ago outside the UK,1346
-E06000017,Rutland,"Inflow: lived elsewhere one year ago, but within the same area",1341
-E07000094,Winchester,Inflow: lived elsewhere one year ago outside the UK,1333
-E08000002,Bury,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1329
-E06000034,Thurrock,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1322
-E08000010,Wigan,Inflow: lived elsewhere one year ago outside the UK,1304
-E07000246,Somerset West and Taunton,Inflow: lived elsewhere one year ago outside the UK,1303
-E07000212,Runnymede,Inflow: lived elsewhere one year ago outside the UK,1290
-W06000003,Conwy,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1287
-E07000042,Mid Devon,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1284
-E07000138,Lincoln,Inflow: lived elsewhere one year ago outside the UK,1282
-E06000017,Rutland,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1270
-E07000026,Allerdale,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1267
-E07000144,Broadland,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1265
-E07000011,Huntingdonshire,Inflow: lived elsewhere one year ago outside the UK,1261
-E07000032,Amber Valley,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1259
-E07000068,Brentwood,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1257
-W06000023,Powys,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1255
-E06000008,Blackburn with Darwen,Inflow: lived elsewhere one year ago outside the UK,1250
-E07000078,Cheltenham,Inflow: lived elsewhere one year ago outside the UK,1244
-E07000009,East Cambridgeshire,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1241
-E06000001,Hartlepool,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1227
-E07000026,Allerdale,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1227
-E07000211,Reigate and Banstead,Inflow: lived elsewhere one year ago outside the UK,1225
-E07000174,Mansfield,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1221
-E07000165,Harrogate,Inflow: lived elsewhere one year ago outside the UK,1207
-E09000001,City of London,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1205
-E07000128,Wyre,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1197
-E07000110,Maidstone,Inflow: lived elsewhere one year ago outside the UK,1190
-E08000013,St. Helens,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1182
-E06000020,Telford and Wrekin,Inflow: lived elsewhere one year ago outside the UK,1180
-E06000011,East Riding of Yorkshire,Inflow: lived elsewhere one year ago outside the UK,1176
-E08000015,Wirral,Inflow: lived elsewhere one year ago outside the UK,1175
-E07000030,Eden,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1160
-E07000069,Castle Point,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1159
-E08000029,Solihull,Inflow: lived elsewhere one year ago outside the UK,1153
-E07000136,Boston,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1148
-E07000033,Bolsover,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1147
-E07000146,King's Lynn and West Norfolk,Inflow: lived elsewhere one year ago outside the UK,1128
-E07000216,Waverley,Inflow: lived elsewhere one year ago outside the UK,1127
-E06000019,Herefordshire,Inflow: lived elsewhere one year ago outside the UK,1126
-E07000095,Broxbourne,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1126
-E07000228,Mid Sussex,Inflow: lived elsewhere one year ago outside the UK,1110
-E07000047,West Devon,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1093
-E06000024,North Somerset,Inflow: lived elsewhere one year ago outside the UK,1088
-W06000019,Blaenau Gwent,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1087
-E06000037,West Berkshire,Inflow: lived elsewhere one year ago outside the UK,1083
-E07000202,Ipswich,Inflow: lived elsewhere one year ago outside the UK,1080
-W06000013,Bridgend,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1080
-E07000226,Crawley,Inflow: lived elsewhere one year ago outside the UK,1077
-E07000179,South Oxfordshire,Inflow: lived elsewhere one year ago outside the UK,1077
-E07000208,Epsom and Ewell,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1075
-E06000036,Bracknell Forest,Inflow: lived elsewhere one year ago outside the UK,1071
-E07000140,South Holland,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1070
-E07000090,Havant,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1067
-W06000022,Newport,Inflow: lived elsewhere one year ago outside the UK,1065
-E07000167,Ryedale,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1060
-E07000136,Boston,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1059
-E08000027,Dudley,Inflow: lived elsewhere one year ago outside the UK,1056
-E07000119,Fylde,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1055
-E07000173,Gedling,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1049
-E07000196,South Staffordshire,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1046
-E07000075,Rochford,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1040
-E07000088,Gosport,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1035
-E07000074,Maldon,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1034
-W06000006,Wrexham,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",1033
-E07000145,Great Yarmouth,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1032
-E06000008,Blackburn with Darwen,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",1022
-E07000227,Horsham,Inflow: lived elsewhere one year ago outside the UK,1021
-E06000033,Southend-on-Sea,Inflow: lived elsewhere one year ago outside the UK,1003
-E06000034,Thurrock,Inflow: lived elsewhere one year ago outside the UK,1000
-E08000023,South Tyneside,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",992
-E08000008,Tameside,Inflow: lived elsewhere one year ago outside the UK,991
-E08000002,Bury,Inflow: lived elsewhere one year ago outside the UK,991
-E07000129,Blaby,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",989
-E07000122,Pendle,Inflow: lived elsewhere one year ago outside the UK,986
-E06000057,Northumberland,Inflow: lived elsewhere one year ago outside the UK,986
-E07000116,Tunbridge Wells,Inflow: lived elsewhere one year ago outside the UK,981
-E07000170,Ashfield,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",980
-E07000189,South Somerset,Inflow: lived elsewhere one year ago outside the UK,968
-E07000242,East Hertfordshire,Inflow: lived elsewhere one year ago outside the UK,966
-E07000096,Dacorum,Inflow: lived elsewhere one year ago outside the UK,962
-E07000105,Ashford,Inflow: lived elsewhere one year ago outside the UK,960
-W06000018,Caerphilly,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",948
-E07000237,Worcester,Inflow: lived elsewhere one year ago outside the UK,943
-E07000122,Pendle,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",939
-W06000024,Merthyr Tydfil,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",934
-E07000169,Selby,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",931
-E07000092,Rushmoor,Inflow: lived elsewhere one year ago outside the UK,928
-E07000234,Bromsgrove,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",924
-W06000016,Rhondda Cynon Taf,Inflow: lived elsewhere one year ago outside the UK,924
-E06000012,North East Lincolnshire,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",912
-E07000220,Rugby,Inflow: lived elsewhere one year ago outside the UK,911
-E08000037,Gateshead,Inflow: lived elsewhere one year ago outside the UK,908
-E06000009,Blackpool,Inflow: lived elsewhere one year ago outside the UK,896
-E07000181,West Oxfordshire,Inflow: lived elsewhere one year ago outside the UK,896
-E07000036,Erewash,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",895
-E07000117,Burnley,Inflow: lived elsewhere one year ago outside the UK,892
-E06000013,North Lincolnshire,Inflow: lived elsewhere one year ago outside the UK,886
-E07000172,Broxtowe,Inflow: lived elsewhere one year ago outside the UK,886
-E07000066,Basildon,Inflow: lived elsewhere one year ago outside the UK,875
-E07000225,Chichester,Inflow: lived elsewhere one year ago outside the UK,869
-E07000118,Chorley,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",866
-E07000029,Copeland,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",865
-E06000001,Hartlepool,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",864
-E07000166,Richmondshire,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",864
-E07000029,Copeland,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",856
-E07000030,Eden,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",855
-E06000004,Stockton-on-Tees,Inflow: lived elsewhere one year ago outside the UK,854
-E07000244,East Suffolk,Inflow: lived elsewhere one year ago outside the UK,836
-E07000143,Breckland,Inflow: lived elsewhere one year ago outside the UK,836
-E08000016,Barnsley,Inflow: lived elsewhere one year ago outside the UK,812
-E07000061,Eastbourne,Inflow: lived elsewhere one year ago outside the UK,805
-W06000001,Isle of Anglesey,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",804
-E07000224,Arun,Inflow: lived elsewhere one year ago outside the UK,802
-E08000011,Knowsley,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",800
-E08000022,North Tyneside,Inflow: lived elsewhere one year ago outside the UK,800
-E08000018,Rotherham,Inflow: lived elsewhere one year ago outside the UK,799
-E07000213,Spelthorne,Inflow: lived elsewhere one year ago outside the UK,795
-E07000098,Hertsmere,Inflow: lived elsewhere one year ago outside the UK,783
-E07000136,Boston,Inflow: lived elsewhere one year ago outside the UK,782
-E07000107,Dartford,Inflow: lived elsewhere one year ago outside the UK,781
-E07000243,Stevenage,Inflow: lived elsewhere one year ago outside the UK,781
-E07000214,Surrey Heath,Inflow: lived elsewhere one year ago outside the UK,780
-E07000239,Wyre Forest,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",776
-E07000208,Epsom and Ewell,Inflow: lived elsewhere one year ago outside the UK,775
-E08000033,Calderdale,Inflow: lived elsewhere one year ago outside the UK,774
-E07000111,Sevenoaks,Inflow: lived elsewhere one year ago outside the UK,767
-E07000187,Mendip,Inflow: lived elsewhere one year ago outside the UK,760
-E07000117,Burnley,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",754
-E07000193,East Staffordshire,Inflow: lived elsewhere one year ago outside the UK,744
-E07000040,East Devon,Inflow: lived elsewhere one year ago outside the UK,743
-E07000091,New Forest,Inflow: lived elsewhere one year ago outside the UK,742
-E07000093,Test Valley,Inflow: lived elsewhere one year ago outside the UK,736
-E07000124,Ribble Valley,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",735
-E07000027,Barrow-in-Furness,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",729
-E06000006,Halton,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",728
-E07000119,Fylde,Inflow: lived elsewhere one year ago outside the UK,727
-W06000002,Gwynedd,Inflow: lived elsewhere one year ago outside the UK,726
-E07000085,East Hampshire,Inflow: lived elsewhere one year ago outside the UK,721
-E07000176,Rushcliffe,Inflow: lived elsewhere one year ago outside the UK,716
-E07000114,Thanet,Inflow: lived elsewhere one year ago outside the UK,711
-E07000221,Stratford-on-Avon,Inflow: lived elsewhere one year ago outside the UK,697
-E07000065,Wealden,Inflow: lived elsewhere one year ago outside the UK,692
-W06000020,Torfaen,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",687
-E07000079,Cotswold,Inflow: lived elsewhere one year ago outside the UK,685
-E06000046,Isle of Wight,Inflow: lived elsewhere one year ago outside the UK,680
-E06000012,North East Lincolnshire,Inflow: lived elsewhere one year ago outside the UK,679
-E07000089,Hart,Inflow: lived elsewhere one year ago outside the UK,675
-E07000031,South Lakeland,Inflow: lived elsewhere one year ago outside the UK,673
-E07000126,South Ribble,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",673
-E06000027,Torbay,Inflow: lived elsewhere one year ago outside the UK,673
-E07000218,North Warwickshire,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",670
-E07000081,Gloucester,Inflow: lived elsewhere one year ago outside the UK,669
-E07000073,Harlow,Inflow: lived elsewhere one year ago outside the UK,660
-W06000014,Vale of Glamorgan,Inflow: lived elsewhere one year ago outside the UK,658
-E07000199,Tamworth,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",658
-E07000166,Richmondshire,Inflow: lived elsewhere one year ago outside the UK,658
-E07000133,Melton,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",655
-E07000192,Cannock Chase,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",650
-E07000072,Epping Forest,Inflow: lived elsewhere one year ago outside the UK,645
-E07000149,South Norfolk,Inflow: lived elsewhere one year ago outside the UK,642
-E07000141,South Kesteven,Inflow: lived elsewhere one year ago outside the UK,632
-E07000009,East Cambridgeshire,Inflow: lived elsewhere one year ago outside the UK,628
-E07000102,Three Rivers,Inflow: lived elsewhere one year ago outside the UK,625
-E08000013,St. Helens,Inflow: lived elsewhere one year ago outside the UK,620
-E07000174,Mansfield,Inflow: lived elsewhere one year ago outside the UK,615
-E07000145,Great Yarmouth,Inflow: lived elsewhere one year ago outside the UK,615
-E07000086,Eastleigh,Inflow: lived elsewhere one year ago outside the UK,609
-E07000219,Nuneaton and Bedworth,Inflow: lived elsewhere one year ago outside the UK,607
-E07000229,Worthing,Inflow: lived elsewhere one year ago outside the UK,606
-E07000099,North Hertfordshire,Inflow: lived elsewhere one year ago outside the UK,603
-E08000011,Knowsley,Inflow: lived elsewhere one year ago outside the UK,601
-W06000010,Carmarthenshire,Inflow: lived elsewhere one year ago outside the UK,599
-E07000028,Carlisle,Inflow: lived elsewhere one year ago outside the UK,585
-E07000115,Tonbridge and Malling,Inflow: lived elsewhere one year ago outside the UK,584
-E07000168,Scarborough,Inflow: lived elsewhere one year ago outside the UK,578
-E07000197,Stafford,Inflow: lived elsewhere one year ago outside the UK,572
-E07000188,Sedgemoor,Inflow: lived elsewhere one year ago outside the UK,572
-E07000195,Newcastle-under-Lyme,Inflow: lived elsewhere one year ago outside the UK,563
-E07000062,Hastings,Inflow: lived elsewhere one year ago outside the UK,562
-E07000210,Mole Valley,Inflow: lived elsewhere one year ago outside the UK,559
-E07000112,Folkestone and Hythe,Inflow: lived elsewhere one year ago outside the UK,557
-E07000127,West Lancashire,Inflow: lived elsewhere one year ago outside the UK,553
-E07000108,Dover,Inflow: lived elsewhere one year ago outside the UK,552
-E09000001,City of London,Inflow: lived elsewhere one year ago outside the UK,550
-E07000238,Wychavon,Inflow: lived elsewhere one year ago outside the UK,549
-E07000203,Mid Suffolk,Inflow: lived elsewhere one year ago outside the UK,544
-E07000027,Barrow-in-Furness,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",543
-E07000043,North Devon,Inflow: lived elsewhere one year ago outside the UK,543
-E07000139,North Kesteven,Inflow: lived elsewhere one year ago outside the UK,539
-E08000023,South Tyneside,Inflow: lived elsewhere one year ago outside the UK,532
-E07000109,Gravesham,Inflow: lived elsewhere one year ago outside the UK,529
-E07000044,South Hams,Inflow: lived elsewhere one year ago outside the UK,528
-W06000006,Wrexham,Inflow: lived elsewhere one year ago outside the UK,527
-E07000236,Redditch,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",525
-W06000008,Ceredigion,Inflow: lived elsewhere one year ago outside the UK,518
-E07000137,East Lindsey,Inflow: lived elsewhere one year ago outside the UK,517
-W06000009,Pembrokeshire,Inflow: lived elsewhere one year ago outside the UK,515
-E07000223,Adur,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",514
-E06000005,Darlington,Inflow: lived elsewhere one year ago outside the UK,512
-E07000215,Tandridge,Inflow: lived elsewhere one year ago outside the UK,504
-E06000006,Halton,Inflow: lived elsewhere one year ago outside the UK,501
-E07000087,Fareham,Inflow: lived elsewhere one year ago outside the UK,495
-E07000131,Harborough,Inflow: lived elsewhere one year ago outside the UK,492
-E07000082,Stroud,Inflow: lived elsewhere one year ago outside the UK,489
-W06000005,Flintshire,Inflow: lived elsewhere one year ago outside the UK,487
-E07000120,Hyndburn,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",487
-E07000140,South Holland,Inflow: lived elsewhere one year ago outside the UK,485
-E07000175,Newark and Sherwood,Inflow: lived elsewhere one year ago outside the UK,483
-E07000045,Teignbridge,Inflow: lived elsewhere one year ago outside the UK,482
-E07000068,Brentwood,Inflow: lived elsewhere one year ago outside the UK,482
-E07000113,Swale,Inflow: lived elsewhere one year ago outside the UK,480
-W06000023,Powys,Inflow: lived elsewhere one year ago outside the UK,476
-W06000012,Neath Port Talbot,Inflow: lived elsewhere one year ago outside the UK,472
-E07000125,Rossendale,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",471
-W06000013,Bridgend,Inflow: lived elsewhere one year ago outside the UK,471
-W06000019,Blaenau Gwent,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",467
-E07000077,Uttlesford,Inflow: lived elsewhere one year ago outside the UK,466
-E07000063,Lewes,Inflow: lived elsewhere one year ago outside the UK,465
-E07000135,Oadby and Wigston,Inflow: lived elsewhere one year ago outside the UK,464
-E07000083,Tewkesbury,Inflow: lived elsewhere one year ago outside the UK,454
-E07000067,Braintree,Inflow: lived elsewhere one year ago outside the UK,450
-E07000010,Fenland,Inflow: lived elsewhere one year ago outside the UK,441
-E07000064,Rother,Inflow: lived elsewhere one year ago outside the UK,435
-E07000164,Hambleton,Inflow: lived elsewhere one year ago outside the UK,418
-E07000128,Wyre,Inflow: lived elsewhere one year ago outside the UK,415
-E07000235,Malvern Hills,Inflow: lived elsewhere one year ago outside the UK,402
-W06000021,Monmouthshire,Inflow: lived elsewhere one year ago outside the UK,401
-E07000236,Redditch,Inflow: lived elsewhere one year ago outside the UK,393
-E07000090,Havant,Inflow: lived elsewhere one year ago outside the UK,391
-W06000003,Conwy,Inflow: lived elsewhere one year ago outside the UK,391
-E07000095,Broxbourne,Inflow: lived elsewhere one year ago outside the UK,389
-E07000144,Broadland,Inflow: lived elsewhere one year ago outside the UK,387
-E07000147,North Norfolk,Inflow: lived elsewhere one year ago outside the UK,372
-E09000001,City of London,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",370
-E07000173,Gedling,Inflow: lived elsewhere one year ago outside the UK,362
-E07000118,Chorley,Inflow: lived elsewhere one year ago outside the UK,358
-E07000134,North West Leicestershire,Inflow: lived elsewhere one year ago outside the UK,356
-E07000171,Bassetlaw,Inflow: lived elsewhere one year ago outside the UK,353
-E07000042,Mid Devon,Inflow: lived elsewhere one year ago outside the UK,351
-E07000080,Forest of Dean,Inflow: lived elsewhere one year ago outside the UK,344
-E07000037,High Peak,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",342
-E07000234,Bromsgrove,Inflow: lived elsewhere one year ago outside the UK,339
-E07000088,Gosport,Inflow: lived elsewhere one year ago outside the UK,338
-E07000170,Ashfield,Inflow: lived elsewhere one year ago outside the UK,337
-E07000027,Barrow-in-Furness,Inflow: lived elsewhere one year ago outside the UK,335
-E07000142,West Lindsey,Inflow: lived elsewhere one year ago outside the UK,334
-E07000039,South Derbyshire,Inflow: lived elsewhere one year ago outside the UK,334
-E07000076,Tendring,Inflow: lived elsewhere one year ago outside the UK,333
-E06000003,Redcar and Cleveland,Inflow: lived elsewhere one year ago outside the UK,332
-E07000032,Amber Valley,Inflow: lived elsewhere one year ago outside the UK,331
-W06000024,Merthyr Tydfil,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",320
-E07000194,Lichfield,Inflow: lived elsewhere one year ago outside the UK,319
-E07000200,Babergh,Inflow: lived elsewhere one year ago outside the UK,319
-E07000129,Blaby,Inflow: lived elsewhere one year ago outside the UK,318
-E07000034,Chesterfield,Inflow: lived elsewhere one year ago outside the UK,317
-E07000124,Ribble Valley,Inflow: lived elsewhere one year ago outside the UK,316
-E07000035,Derbyshire Dales,Inflow: lived elsewhere one year ago outside the UK,307
-W06000004,Denbighshire,Inflow: lived elsewhere one year ago outside the UK,306
-E07000046,Torridge,Inflow: lived elsewhere one year ago outside the UK,304
-E07000132,Hinckley and Bosworth,Inflow: lived elsewhere one year ago outside the UK,299
-E07000163,Craven,Inflow: lived elsewhere one year ago outside the UK,294
-E07000037,High Peak,Inflow: lived elsewhere one year ago outside the UK,288
-E07000126,South Ribble,Inflow: lived elsewhere one year ago outside the UK,287
-E07000120,Hyndburn,Inflow: lived elsewhere one year ago outside the UK,287
-E07000036,Erewash,Inflow: lived elsewhere one year ago outside the UK,286
-E07000169,Selby,Inflow: lived elsewhere one year ago outside the UK,285
-E07000047,West Devon,Inflow: lived elsewhere one year ago outside the UK,283
-E06000017,Rutland,Inflow: lived elsewhere one year ago outside the UK,282
-E07000033,Bolsover,Inflow: lived elsewhere one year ago outside the UK,278
-E06000001,Hartlepool,Inflow: lived elsewhere one year ago outside the UK,273
-E07000167,Ryedale,Inflow: lived elsewhere one year ago outside the UK,271
-E07000026,Allerdale,Inflow: lived elsewhere one year ago outside the UK,263
-E07000199,Tamworth,Inflow: lived elsewhere one year ago outside the UK,247
-W06000024,Merthyr Tydfil,Inflow: lived elsewhere one year ago outside the UK,244
-W06000018,Caerphilly,Inflow: lived elsewhere one year ago outside the UK,235
-E07000038,North East Derbyshire,Inflow: lived elsewhere one year ago outside the UK,233
-E07000223,Adur,Inflow: lived elsewhere one year ago outside the UK,230
-E07000029,Copeland,Inflow: lived elsewhere one year ago outside the UK,228
-E07000030,Eden,Inflow: lived elsewhere one year ago outside the UK,228
-E07000133,Melton,Inflow: lived elsewhere one year ago outside the UK,213
-E07000074,Maldon,Inflow: lived elsewhere one year ago outside the UK,208
-E07000192,Cannock Chase,Inflow: lived elsewhere one year ago outside the UK,204
-E07000239,Wyre Forest,Inflow: lived elsewhere one year ago outside the UK,194
-E07000198,Staffordshire Moorlands,Inflow: lived elsewhere one year ago outside the UK,191
-E07000196,South Staffordshire,Inflow: lived elsewhere one year ago outside the UK,189
-E07000125,Rossendale,Inflow: lived elsewhere one year ago outside the UK,182
-E07000075,Rochford,Inflow: lived elsewhere one year ago outside the UK,180
-E07000069,Castle Point,Inflow: lived elsewhere one year ago outside the UK,179
-E09000001,City of London,"Inflow: lived elsewhere one year ago, but within the same area",176
-E07000218,North Warwickshire,Inflow: lived elsewhere one year ago outside the UK,161
-W06000020,Torfaen,Inflow: lived elsewhere one year ago outside the UK,157
-W06000001,Isle of Anglesey,Inflow: lived elsewhere one year ago outside the UK,141
-W06000019,Blaenau Gwent,Inflow: lived elsewhere one year ago outside the UK,105
-E06000053,Isles of Scilly,"Inflow: lived elsewhere one year ago, but within the same area",73
-E06000053,Isles of Scilly,"Inflow: lived elsewhere one year ago outside the area, but within the associated area",61
-E06000053,Isles of Scilly,"Inflow: lived elsewhere one year ago outside the associated area, but within the UK",43
-E06000053,Isles of Scilly,Inflow: lived elsewhere one year ago outside the UK,14
-E06000062,West Northamptonshire,Does not apply,0
-E06000061,North Northamptonshire,Does not apply,0
-W06000021,Monmouthshire,Does not apply,0
-E07000008,Cambridge,Does not apply,0
-E07000009,East Cambridgeshire,Does not apply,0
-E09000032,Wandsworth,Does not apply,0
-E06000060,Buckinghamshire,Does not apply,0
-E09000033,Westminster,Does not apply,0
-E06000059,Dorset,Does not apply,0
-E07000200,Babergh,Does not apply,0
-E08000002,Bury,Does not apply,0
-E06000058,"Bournemouth, Christchurch and Poole",Does not apply,0
-E06000012,North East Lincolnshire,Does not apply,0
-E06000057,Northumberland,Does not apply,0
-E06000056,Central Bedfordshire,Does not apply,0
-W06000001,Isle of Anglesey,Does not apply,0
-E07000226,Crawley,Does not apply,0
-E07000202,Ipswich,Does not apply,0
-E06000055,Bedford,Does not apply,0
-E06000054,Wiltshire,Does not apply,0
-W06000002,Gwynedd,Does not apply,0
-E07000203,Mid Suffolk,Does not apply,0
-E06000007,Warrington,Does not apply,0
-E06000053,Isles of Scilly,Does not apply,0
-E06000008,Blackburn with Darwen,Does not apply,0
-W06000003,Conwy,Does not apply,0
-E07000225,Chichester,Does not apply,0
-E07000239,Wyre Forest,Does not apply,0
-E07000010,Fenland,Does not apply,0
-E07000199,Tamworth,Does not apply,0
-E07000011,Huntingdonshire,Does not apply,0
-E09000027,Richmond upon Thames,Does not apply,0
-E07000237,Worcester,Does not apply,0
-E07000196,South Staffordshire,Does not apply,0
-E07000195,Newcastle-under-Lyme,Does not apply,0
-E06000004,Stockton-on-Tees,Does not apply,0
-E07000031,South Lakeland,Does not apply,0
-W06000023,Powys,Does not apply,0
-E07000229,Worthing,Does not apply,0
-E07000234,Bromsgrove,Does not apply,0
-E07000030,Eden,Does not apply,0
-E07000032,Amber Valley,Does not apply,0
-E06000003,Redcar and Cleveland,Does not apply,0
-E06000002,Middlesbrough,Does not apply,0
-W06000024,Merthyr Tydfil,Does not apply,0
-E07000194,Lichfield,Does not apply,0
-E07000033,Bolsover,Does not apply,0
-E07000236,Redditch,Does not apply,0
-E06000005,Darlington,Does not apply,0
-E09000028,Southwark,Does not apply,0
-E09000031,Waltham Forest,Does not apply,0
-E07000227,Horsham,Does not apply,0
-E06000051,Shropshire,Does not apply,0
-E07000012,South Cambridgeshire,Does not apply,0
-E07000026,Allerdale,Does not apply,0
-E07000238,Wychavon,Does not apply,0
-E06000006,Halton,Does not apply,0
-E09000030,Tower Hamlets,Does not apply,0
-E07000027,Barrow-in-Furness,Does not apply,0
-E08000003,Manchester,Does not apply,0
-E08000004,Oldham,Does not apply,0
-E07000198,Staffordshire Moorlands,Does not apply,0
-E07000028,Carlisle,Does not apply,0
-E09000029,Sutton,Does not apply,0
-E07000197,Stafford,Does not apply,0
-E07000029,Copeland,Does not apply,0
-W06000022,Newport,Does not apply,0
-E07000228,Mid Sussex,Does not apply,0
-E06000052,Cornwall,Does not apply,0
-W06000004,Denbighshire,Does not apply,0
-E06000050,Cheshire West and Chester,Does not apply,0
-E07000216,Waverley,Does not apply,0
-E07000223,Adur,Does not apply,0
-E07000243,Stevenage,Does not apply,0
-W06000013,Bridgend,Does not apply,0
-E06000021,Stoke-on-Trent,Does not apply,0
-E06000022,Bath and North East Somerset,Does not apply,0
-E06000023,Bristol,Does not apply,0
-E06000024,North Somerset,Does not apply,0
-W06000012,Neath Port Talbot,Does not apply,0
-E07000218,North Warwickshire,Does not apply,0
-E07000215,Tandridge,Does not apply,0
-E06000025,South Gloucestershire,Does not apply,0
-E06000026,Plymouth,Does not apply,0
-E06000027,Torbay,Does not apply,0
-E07000244,East Suffolk,Does not apply,0
-W06000011,Swansea,Does not apply,0
-E06000030,Swindon,Does not apply,0
-E07000217,Woking,Does not apply,0
-E06000020,Telford and Wrekin,Does not apply,0
-E06000032,Luton,Does not apply,0
-E06000016,Leicester,Does not apply,0
-E07000241,Welwyn Hatfield,Does not apply,0
-E07000220,Rugby,Does not apply,0
-W06000016,Rhondda Cynon Taf,Does not apply,0
-E06000013,North Lincolnshire,Does not apply,0
-E07000219,Nuneaton and Bedworth,Does not apply,0
-E06000014,York,Does not apply,0
-E06000015,Derby,Does not apply,0
-W06000015,Cardiff,Does not apply,0
-E06000011,East Riding of Yorkshire,Does not apply,0
-E06000017,Rutland,Does not apply,0
-E07000222,Warwick,Does not apply,0
-W06000018,Caerphilly,Does not apply,0
-E06000018,Nottingham,Does not apply,0
-E06000019,Herefordshire,Does not apply,0
-E07000242,East Hertfordshire,Does not apply,0
-W06000014,Vale of Glamorgan,Does not apply,0
-E06000031,Peterborough,Does not apply,0
-E06000010,Kingston upon Hull,Does not apply,0
-E06000049,Cheshire East,Does not apply,0
-E06000044,Portsmouth,Does not apply,0
-E07000246,Somerset West and Taunton,Does not apply,0
-E07000208,Epsom and Ewell,Does not apply,0
-E06000009,Blackpool,Does not apply,0
-W06000006,Wrexham,Does not apply,0
-E06000041,Wokingham,Does not apply,0
-E06000042,Milton Keynes,Does not apply,0
-E06000043,Brighton and Hove,Does not apply,0
-E07000207,Elmbridge,Does not apply,0
-E06000039,Slough,Does not apply,0
-W06000005,Flintshire,Does not apply,0
-E06000045,Southampton,Does not apply,0
-E06000046,Isle of Wight,Does not apply,0
-W06000020,Torfaen,Does not apply,0
-E08000001,Bolton,Does not apply,0
-E06000047,County Durham,Does not apply,0
-E07000221,Stratford-on-Avon,Does not apply,0
-E06000040,Windsor and Maidenhead,Does not apply,0
-E07000224,Arun,Does not apply,0
-E06000033,Southend-on-Sea,Does not apply,0
-E07000245,West Suffolk,Does not apply,0
-E07000214,Surrey Heath,Does not apply,0
-W06000010,Carmarthenshire,Does not apply,0
-E07000213,Spelthorne,Does not apply,0
-E06000034,Thurrock,Does not apply,0
-W06000019,Blaenau Gwent,Does not apply,0
-E07000212,Runnymede,Does not apply,0
-E06000035,Medway,Does not apply,0
-W06000009,Pembrokeshire,Does not apply,0
-E06000038,Reading,Does not apply,0
-E06000036,Bracknell Forest,Does not apply,0
-E07000211,Reigate and Banstead,Does not apply,0
-E06000037,West Berkshire,Does not apply,0
-E07000210,Mole Valley,Does not apply,0
-E07000209,Guildford,Does not apply,0
-W06000008,Ceredigion,Does not apply,0
-E07000240,St Albans,Does not apply,0
-E09000026,Redbridge,Does not apply,0
-E08000026,Coventry,Does not apply,0
-E08000005,Rochdale,Does not apply,0
-E07000164,Hambleton,Does not apply,0
-E07000107,Dartford,Does not apply,0
-E07000108,Dover,Does not apply,0
-E09000002,Barking and Dagenham,Does not apply,0
-E07000163,Craven,Does not apply,0
-E08000017,Doncaster,Does not apply,0
-E07000149,South Norfolk,Does not apply,0
-E09000001,City of London,Does not apply,0
-E07000109,Gravesham,Does not apply,0
-E07000148,Norwich,Does not apply,0
-E07000110,Maidstone,Does not apply,0
-E07000147,North Norfolk,Does not apply,0
-E08000037,Gateshead,Does not apply,0
-E07000111,Sevenoaks,Does not apply,0
-E08000018,Rotherham,Does not apply,0
-E07000112,Folkestone and Hythe,Does not apply,0
-E07000146,King's Lynn and West Norfolk,Does not apply,0
-E07000113,Swale,Does not apply,0
-E08000036,Wakefield,Does not apply,0
-E07000145,Great Yarmouth,Does not apply,0
-E07000106,Canterbury,Does not apply,0
-E09000003,Barnet,Does not apply,0
-E09000007,Camden,Does not apply,0
-E07000105,Ashford,Does not apply,0
-E08000014,Sefton,Does not apply,0
-E07000092,Rushmoor,Does not apply,0
-E07000093,Test Valley,Does not apply,0
-E09000006,Bromley,Does not apply,0
-E07000167,Ryedale,Does not apply,0
-E07000094,Winchester,Does not apply,0
-E07000095,Broxbourne,Does not apply,0
-E08000015,Wirral,Does not apply,0
-E09000005,Brent,Does not apply,0
-E07000096,Dacorum,Does not apply,0
-E07000235,Malvern Hills,Does not apply,0
-E07000098,Hertsmere,Does not apply,0
-E07000166,Richmondshire,Does not apply,0
-E07000099,North Hertfordshire,Does not apply,0
-E09000004,Bexley,Does not apply,0
-E07000165,Harrogate,Does not apply,0
-E07000102,Three Rivers,Does not apply,0
-E08000016,Barnsley,Does not apply,0
-E07000103,Watford,Does not apply,0
-E07000114,Thanet,Does not apply,0
-E08000019,Sheffield,Does not apply,0
-E07000115,Tonbridge and Malling,Does not apply,0
-E08000035,Leeds,Does not apply,0
-E07000125,Rossendale,Does not apply,0
-E08000030,Walsall,Does not apply,0
-E07000138,Lincoln,Does not apply,0
-E07000126,South Ribble,Does not apply,0
-E07000137,East Lindsey,Does not apply,0
-E08000024,Sunderland,Does not apply,0
-E08000029,Solihull,Does not apply,0
-E07000127,West Lancashire,Does not apply,0
-E07000136,Boston,Does not apply,0
-E07000128,Wyre,Does not apply,0
-E08000025,Birmingham,Does not apply,0
-E07000135,Oadby and Wigston,Does not apply,0
-E08000028,Sandwell,Does not apply,0
-E07000129,Blaby,Does not apply,0
-E07000130,Charnwood,Does not apply,0
-E07000134,North West Leicestershire,Does not apply,0
-E08000027,Dudley,Does not apply,0
-E07000131,Harborough,Does not apply,0
-E07000132,Hinckley and Bosworth,Does not apply,0
-E08000023,South Tyneside,Does not apply,0
-E07000124,Ribble Valley,Does not apply,0
-E08000031,Wolverhampton,Does not apply,0
-E08000033,Calderdale,Does not apply,0
-E07000116,Tunbridge Wells,Does not apply,0
-E07000117,Burnley,Does not apply,0
-E07000144,Broadland,Does not apply,0
-E07000143,Breckland,Does not apply,0
-E08000034,Kirklees,Does not apply,0
-E07000118,Chorley,Does not apply,0
-E08000021,Newcastle upon Tyne,Does not apply,0
-E07000119,Fylde,Does not apply,0
-E07000142,West Lindsey,Does not apply,0
-E07000123,Preston,Does not apply,0
-E07000141,South Kesteven,Does not apply,0
-E07000120,Hyndburn,Does not apply,0
-E08000022,North Tyneside,Does not apply,0
-E08000032,Bradford,Does not apply,0
-E07000121,Lancaster,Does not apply,0
-E07000122,Pendle,Does not apply,0
-E07000140,South Holland,Does not apply,0
-E07000139,North Kesteven,Does not apply,0
-E07000091,New Forest,Does not apply,0
-E07000168,Scarborough,Does not apply,0
-E07000034,Chesterfield,Does not apply,0
-E07000046,Torridge,Does not apply,0
-E09000020,Kensington and Chelsea,Does not apply,0
-E07000188,Sedgemoor,Does not apply,0
-E07000061,Eastbourne,Does not apply,0
-E08000007,Stockport,Does not apply,0
-E07000062,Hastings,Does not apply,0
-E09000019,Islington,Does not apply,0
-E07000187,Mendip,Does not apply,0
-E07000063,Lewes,Does not apply,0
-E07000181,West Oxfordshire,Does not apply,0
-E07000064,Rother,Does not apply,0
-E07000180,Vale of White Horse,Does not apply,0
-E09000018,Hounslow,Does not apply,0
-E07000065,Wealden,Does not apply,0
-E08000008,Tameside,Does not apply,0
-E07000066,Basildon,Does not apply,0
-E07000179,South Oxfordshire,Does not apply,0
-E07000067,Braintree,Does not apply,0
-E09000017,Hillingdon,Does not apply,0
-E07000178,Oxford,Does not apply,0
-E07000047,West Devon,Does not apply,0
-E07000189,South Somerset,Does not apply,0
-E07000090,Havant,Does not apply,0
-E07000045,Teignbridge,Does not apply,0
-E07000035,Derbyshire Dales,Does not apply,0
-E09000025,Newham,Does not apply,0
-E07000036,Erewash,Does not apply,0
-E07000193,East Staffordshire,Does not apply,0
-E07000037,High Peak,Does not apply,0
-E09000024,Merton,Does not apply,0
-E07000038,North East Derbyshire,Does not apply,0
-E07000039,South Derbyshire,Does not apply,0
-E09000023,Lewisham,Does not apply,0
-E07000040,East Devon,Does not apply,0
-E07000133,Melton,Does not apply,0
-E07000041,Exeter,Does not apply,0
-E07000042,Mid Devon,Does not apply,0
-E09000022,Lambeth,Does not apply,0
-E07000043,North Devon,Does not apply,0
-E07000192,Cannock Chase,Does not apply,0
-E07000044,South Hams,Does not apply,0
-E08000006,Salford,Does not apply,0
-E09000021,Kingston upon Thames,Does not apply,0
-E07000068,Brentwood,Does not apply,0
-E07000177,Cherwell,Does not apply,0
-E08000009,Trafford,Does not apply,0
-E07000069,Castle Point,Does not apply,0
-E07000080,Forest of Dean,Does not apply,0
-E07000081,Gloucester,Does not apply,0
-E09000011,Greenwich,Does not apply,0
-E07000082,Stroud,Does not apply,0
-E07000171,Bassetlaw,Does not apply,0
-E07000083,Tewkesbury,Does not apply,0
-E08000012,Liverpool,Does not apply,0
-E09000010,Enfield,Does not apply,0
-E07000084,Basingstoke and Deane,Does not apply,0
-E07000085,East Hampshire,Does not apply,0
-E07000086,Eastleigh,Does not apply,0
-E07000170,Ashfield,Does not apply,0
-E09000009,Ealing,Does not apply,0
-E07000087,Fareham,Does not apply,0
-E07000088,Gosport,Does not apply,0
-E08000013,St. Helens,Does not apply,0
-E09000008,Croydon,Does not apply,0
-E07000089,Hart,Does not apply,0
-E07000169,Selby,Does not apply,0
-E07000172,Broxtowe,Does not apply,0
-E07000079,Cotswold,Does not apply,0
-E09000012,Hackney,Does not apply,0
-E08000010,Wigan,Does not apply,0
-E09000016,Havering,Does not apply,0
-E07000176,Rushcliffe,Does not apply,0
-E07000070,Chelmsford,Does not apply,0
-E07000071,Colchester,Does not apply,0
-E07000072,Epping Forest,Does not apply,0
-E09000015,Harrow,Does not apply,0
-E07000175,Newark and Sherwood,Does not apply,0
-E07000073,Harlow,Does not apply,0
-E07000074,Maldon,Does not apply,0
-E08000011,Knowsley,Does not apply,0
-E09000014,Haringey,Does not apply,0
-E07000174,Mansfield,Does not apply,0
-E07000075,Rochford,Does not apply,0
-E07000076,Tendring,Does not apply,0
-E09000013,Hammersmith and Fulham,Does not apply,0
-E07000077,Uttlesford,Does not apply,0
-E07000173,Gedling,Does not apply,0
-E07000078,Cheltenham,Does not apply,0
-E06000001,Hartlepool,Does not apply,0
+Lower tier local authorities code,Lower tier local authorities label,Count
+E08000025,Birmingham,1130646
+E08000035,Leeds,803134
+E06000052,Cornwall,565553
+E08000019,Sheffield,550796
+E06000060,Buckinghamshire,547435
+E08000003,Manchester,545364
+E08000032,Bradford,539778
+E06000047,County Durham,517450
+E06000054,Wiltshire,505781
+E08000012,Liverpool,481069
+E06000023,Bristol,467283
+E08000034,Kirklees,428462
+E06000062,West Northamptonshire,421258
+E06000058,"Bournemouth, Christchurch and Poole",396517
+E06000049,Cheshire East,395125
+E09000008,Croydon,385629
+E09000003,Barnet,384747
+E06000059,Dorset,376911
+E06000016,Leicester,364360
+E09000009,Ealing,362964
+W06000015,Cardiff,358749
+E06000061,North Northamptonshire,355812
+E06000050,Cheshire West and Chester,353870
+E08000036,Wakefield,349512
+E09000025,Newham,346241
+E08000026,Coventry,341401
+E06000011,East Riding of Yorkshire,339599
+E08000028,Sandwell,337568
+E09000005,Brent,335829
+E09000006,Bromley,326354
+E09000010,Enfield,326268
+E08000010,Wigan,325958
+E09000032,Wandsworth,323481
+E06000051,Shropshire,320954
+E06000018,Nottingham,320474
+E08000027,Dudley,320023
+E06000057,Northumberland,317995
+E08000015,Wirral,317217
+E09000022,Lambeth,314510
+E09000030,Tower Hamlets,306329
+E09000026,Redbridge,306190
+E08000017,Doncaster,304827
+E09000028,Southwark,304399
+E09000017,Hillingdon,302105
+E08000021,Newcastle upon Tyne,297146
+E09000023,Lewisham,296712
+E08000001,Bolton,292418
+E08000007,Stockport,291600
+E06000056,Central Bedfordshire,290942
+E06000025,South Gloucestershire,287358
+E09000011,Greenwich,285285
+E09000018,Hounslow,284635
+E06000042,Milton Keynes,283813
+E08000030,Walsall,280788
+E08000014,Sefton,276787
+E06000035,Medway,276493
+E06000043,Brighton and Hove,274888
+E09000031,Waltham Forest,274505
+E08000024,Sunderland,271546
+E08000006,Salford,266365
+E06000010,Kingston upon Hull,263919
+E08000018,Rotherham,263063
+E06000026,Plymouth,262241
+E09000014,Haringey,261205
+E08000031,Wolverhampton,260653
+E09000016,Havering,258962
+E06000015,Derby,258445
+E09000015,Harrow,258170
+E09000012,Hackney,255759
+E06000021,Stoke-on-Trent,255339
+E06000045,Southampton,246205
+E07000244,East Suffolk,244195
+E09000004,Bexley,243656
+E08000016,Barnsley,242063
+E08000004,Oldham,239102
+W06000011,Swansea,236487
+W06000016,Rhondda Cynon Taf,235349
+E08000009,Trafford,232660
+E06000030,Swindon,230892
+E08000008,Tameside,228540
+E06000032,Luton,222120
+E08000005,Rochdale,220982
+E09000002,Barking and Dagenham,215708
+E06000024,North Somerset,214786
+E08000029,Solihull,214172
+E09000019,Islington,214137
+E06000031,Peterborough,212969
+E09000024,Merton,212448
+E06000007,Warrington,209029
+E09000007,Camden,208097
+E09000029,Sutton,207322
+E08000022,North Tyneside,206996
+E06000044,Portsmouth,205777
+E08000033,Calderdale,204520
+E09000033,Westminster,202370
+E06000014,York,201123
+E06000004,Stockton-on-Tees,194680
+E08000037,Gateshead,194270
+E09000027,Richmond upon Thames,193252
+E08000002,Bury,191710
+E06000022,Bath and North East Somerset,191643
+E07000071,Colchester,190714
+W06000010,Carmarthenshire,186218
+E06000019,Herefordshire,185528
+E07000066,Basildon,185314
+E06000020,Telford and Wrekin,183541
+E07000084,Basingstoke and Deane,183184
+E06000055,Bedford,183068
+E07000130,Charnwood,182299
+E08000013,St. Helens,181426
+E09000013,Hammersmith and Fulham,181279
+E07000070,Chelmsford,179722
+E07000011,Huntingdonshire,179073
+E06000033,Southend-on-Sea,178720
+E07000245,West Suffolk,178094
+E06000041,Wokingham,175782
+E07000091,New Forest,174491
+W06000018,Caerphilly,174335
+E07000110,Maidstone,173851
+E06000034,Thurrock,173717
+E06000038,Reading,172251
+E07000189,South Somerset,171092
+E06000013,North Lincolnshire,168113
+E09000021,Kingston upon Thames,166248
+E07000224,Arun,163541
+E07000165,Harrogate,161377
+E07000178,Oxford,160642
+E07000012,South Cambridgeshire,160530
+E06000037,West Berkshire,159942
+E07000177,Cherwell,159249
+E07000065,Wealden,158860
+W06000022,Newport,157740
+E06000039,Slough,156336
+E07000106,Canterbury,156202
+E07000246,Somerset West and Taunton,156042
+E06000012,North East Lincolnshire,155437
+E07000067,Braintree,153813
+W06000005,Flintshire,153537
+E07000096,Dacorum,153276
+E07000146,King's Lynn and West Norfolk,152959
+E06000008,Blackburn with Darwen,152818
+E08000011,Knowsley,152714
+E06000040,Windsor and Maidenhead,152035
+E07000228,Mid Sussex,151054
+E07000113,Swale,150085
+E07000040,East Devon,149642
+E07000211,Reigate and Banstead,149166
+E07000242,East Hertfordshire,148598
+E07000179,South Oxfordshire,147618
+E07000222,Warwick,147082
+E07000076,Tendring,147040
+E07000240,St Albans,146663
+E08000023,South Tyneside,146322
+E07000123,Preston,146066
+E07000227,Horsham,145451
+E07000008,Cambridge,144453
+W06000013,Bridgend,144142
+E07000148,Norwich,142577
+E07000209,Guildford,142396
+E06000002,Middlesbrough,142289
+E07000141,South Kesteven,142136
+E09000020,Kensington and Chelsea,142095
+E07000121,Lancaster,141698
+E07000137,East Lindsey,141242
+W06000012,Neath Port Talbot,141025
+E07000149,South Norfolk,140699
+E07000143,Breckland,140250
+E06000009,Blackpool,139630
+E06000046,Isle of Wight,139476
+E07000114,Thanet,139183
+E06000027,Torbay,138244
+E07000202,Ipswich,138120
+E07000180,Vale of White Horse,137516
+E07000207,Elmbridge,137242
+E07000197,Stafford,135658
+E06000003,Redcar and Cleveland,135359
+E07000086,Eastleigh,135065
+W06000006,Wrexham,133861
+E07000045,Teignbridge,133762
+E07000221,Stratford-on-Avon,133542
+E07000072,Epping Forest,133469
+E07000219,Nuneaton and Bedworth,132709
+W06000023,Powys,132125
+E07000099,North Hertfordshire,131792
+E07000105,Ashford,131349
+E07000238,Wychavon,131332
+E07000081,Gloucester,131017
+E07000115,Tonbridge and Malling,130847
+W06000014,Vale of Glamorgan,130710
+E07000144,Broadland,130708
+E07000041,Exeter,129543
+E07000093,Test Valley,129278
+E06000006,Halton,127221
+E07000216,Waverley,127141
+E07000094,Winchester,126375
+E07000032,Amber Valley,125111
+E07000170,Ashfield,125068
+E07000085,East Hampshire,124658
+E07000188,Sedgemoor,124257
+E06000036,Bracknell Forest,123258
+E07000225,Chichester,123142
+E07000090,Havant,123080
+E07000193,East Staffordshire,122695
+W06000009,Pembrokeshire,122369
+E07000195,Newcastle-under-Lyme,122180
+E07000175,Newark and Sherwood,121764
+E07000082,Stroud,120107
+E07000111,Sevenoaks,119276
+E07000241,Welwyn Hatfield,118592
+E07000176,Rushcliffe,118034
+E07000078,Cheltenham,117825
+E07000139,North Kesteven,117089
+E07000226,Crawley,116990
+E07000171,Bassetlaw,116689
+E07000118,Chorley,116613
+E07000127,West Lancashire,116502
+W06000002,Gwynedd,116415
+E07000173,Gedling,116114
+E07000108,Dover,115350
+E07000107,Dartford,115166
+E07000187,Mendip,115086
+E07000116,Tunbridge Wells,114179
+W06000003,Conwy,113807
+E07000087,Fareham,113611
+E07000220,Rugby,113172
+E07000181,West Oxfordshire,113163
+E07000132,Hinckley and Bosworth,112624
+E07000036,Erewash,111923
+E07000128,Wyre,111019
+E07000229,Worthing,110303
+E07000126,South Ribble,110007
+E07000172,Broxtowe,109991
+E07000196,South Staffordshire,109530
+E07000174,Mansfield,109369
+E07000028,Carlisle,109013
+E07000112,Folkestone and Hythe,108811
+E07000168,Scarborough,107846
+E06000005,Darlington,106745
+E07000098,Hertsmere,106631
+E07000039,South Derbyshire,106112
+E07000109,Gravesham,105620
+E07000194,Lichfield,105481
+E07000031,South Lakeland,103742
+E07000134,North West Leicestershire,103645
+E07000237,Worcester,102883
+E07000138,Lincoln,102777
+E07000217,Woking,102757
+E07000034,Chesterfield,102618
+E07000147,North Norfolk,102350
+E07000129,Blaby,101898
+E07000203,Mid Suffolk,101830
+E07000213,Spelthorne,101806
+E07000010,Fenland,101503
+E07000038,North East Derbyshire,101096
+E07000103,Watford,100967
+E07000061,Eastbourne,100821
+E07000239,Wyre Forest,100728
+E07000192,Cannock Chase,99424
+E07000063,Lewes,99104
+E07000145,Great Yarmouth,98818
+E07000092,Rushmoor,98494
+E07000089,Hart,98476
+E07000234,Bromsgrove,98304
+E07000095,Broxbourne,97892
+E07000043,North Devon,97809
+E07000131,Harborough,96768
+E07000026,Allerdale,95303
+E07000198,Staffordshire Moorlands,95054
+W06000004,Denbighshire,94944
+E07000122,Pendle,94652
+E07000142,West Lindsey,94380
+E07000140,South Holland,94232
+E07000083,Tewkesbury,93900
+E07000117,Burnley,93587
+E07000102,Three Rivers,92795
+E07000064,Rother,92421
+W06000021,Monmouthshire,92229
+E07000073,Harlow,92137
+E07000200,Babergh,91635
+E06000001,Hartlepool,91422
+W06000020,Torfaen,91358
+E07000169,Selby,91039
+E07000077,Uttlesford,90488
+E07000037,High Peak,90150
+E07000062,Hastings,90096
+E07000079,Cotswold,90086
+E07000164,Hambleton,90033
+E07000214,Surrey Heath,89627
+E07000069,Castle Point,88780
+E07000243,Stevenage,88442
+E07000044,South Hams,88042
+E07000212,Runnymede,87199
+E07000009,East Cambridgeshire,86983
+E07000215,Tandridge,86967
+E07000210,Mole Valley,86655
+E07000080,Forest of Dean,86270
+E07000236,Redditch,86083
+E07000075,Rochford,84876
+E07000042,Mid Devon,82092
+E07000120,Hyndburn,81342
+E07000088,Gosport,81128
+E07000119,Fylde,80784
+E07000208,Epsom and Ewell,80065
+E07000033,Bolsover,79446
+E07000235,Malvern Hills,78925
+E07000199,Tamworth,77799
+E07000068,Brentwood,76248
+E07000035,Derbyshire Dales,71054
+W06000008,Ceredigion,70973
+E07000125,Rossendale,70176
+E07000136,Boston,69868
+W06000001,Isle of Anglesey,68297
+E07000046,Torridge,67601
+E07000027,Barrow-in-Furness,66773
+E07000029,Copeland,66482
+W06000019,Blaenau Gwent,66237
+E07000074,Maldon,65649
+E07000218,North Warwickshire,64436
+E07000223,Adur,64008
+E07000124,Ribble Valley,61090
+W06000024,Merthyr Tydfil,58226
+E07000135,Oadby and Wigston,57248
+E07000047,West Devon,56674
+E07000163,Craven,56530
+E07000030,Eden,54334
+E07000167,Ryedale,54295
+E07000133,Melton,51313
+E07000166,Richmondshire,49337
+E06000017,Rutland,40781
+E09000001,City of London,8536
+E06000053,Isles of Scilly,2038
